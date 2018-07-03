@@ -1,3 +1,5 @@
+## Dear Visitor! 
+
 This site is dedicated to the article
 
 Vásárhelyi, G.; Virágh, C.; Somorjai, G.; Nepusz, T.; Eiben, A. E. & Vicsek, T. **Optimized flocking of autonomous drones in confined environments**, _Science Robotics_, 2018
@@ -25,7 +27,7 @@ The full article is made open-access and is available at **TODO**.
 * Movie S6. Flight log visualization of 30 drones at 8 m/s in a circular flight pattern, available [here](https://youtu.be/GoiunzowSG4).
 * Movie S7. Summarizing documentary with simulation, flight log visualization and footage on real flights, available [here](https://youtu.be/loemTAEGWfg).
 
-## Simulation Code
+## Download Simulation Code
 
 The code basis of the multi-drone simulation that was used in the article is open-source and can be found at [github.com/csviragh/robotsim](https://github.com/csviragh/robotsim).
 
