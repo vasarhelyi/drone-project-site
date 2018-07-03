@@ -6,7 +6,7 @@ Vásárhelyi, G.; Virágh, C.; Somorjai, G.; Nepusz, T.; Eiben, A. E. & Vicsek, 
 
 ## Video Abstract
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/loemTAEGWfg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/loemTAEGWfg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Abstract
 
@@ -36,7 +36,7 @@ The code basis of the multi-drone simulation that was used in the article is ope
 * [Gábor Vásárhelyi](http://hal.elte.hu/~vasarhelyi/), MTA-ELTE Statistical and Biological Physics Research Group / CollMot Robotics
 * [Csaba Virágh](https://hal.elte.hu/flocking/wiki/public/en/people/CsabaViragh), ELTE Department of Biological Physics / Morgan Stanley
 * [Gergő Somorjai](https://collmot.com/), MTA-ELTE Statistical and Biological Physics Research Group / CollMot Robotics
-* [Tamás Nepusz](http://hal.elte.hu/~nepusz/), CollMot Robotics / Mill Innovations
+* [Tamás Nepusz](http://hal.elte.hu/~nepusz/), CollMot Robotics / Molde University College
 * [Agoston E. Eiben](https://www.cs.vu.nl/~gusz/), Vrije Universiteit Amsterdam
 * [Tamás Vicsek](http://hal.elte.hu/~vicsek/), MTA-ELTE Statistical and Biological Physics Research Group
 
