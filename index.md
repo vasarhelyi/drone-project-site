@@ -33,12 +33,20 @@ The code basis of the multi-drone simulation that was used in the article is ope
 
 ## Authors
 
-* [Gábor Vásárhelyi](http://hal.elte.hu/~vasarhelyi/), MTA-ELTE Statistical and Biological Physics Research Group / CollMot Robotics
-* [Csaba Virágh](https://hal.elte.hu/flocking/wiki/public/en/people/CsabaViragh), ELTE Department of Biological Physics / Morgan Stanley
-* [Gergő Somorjai](https://collmot.com/), MTA-ELTE Statistical and Biological Physics Research Group / CollMot Robotics
-* [Tamás Nepusz](http://hal.elte.hu/~nepusz/), CollMot Robotics / Molde University College
-* [Agoston E. Eiben](https://www.cs.vu.nl/~gusz/), Vrije Universiteit Amsterdam
-* [Tamás Vicsek](http://hal.elte.hu/~vicsek/), MTA-ELTE Statistical and Biological Physics Research Group
+* [Gábor Vásárhelyi](http://hal.elte.hu/~vasarhelyi/)<sup>1,2,3</sup>
+* [Csaba Virágh](https://hal.elte.hu/flocking/wiki/public/en/people/CsabaViragh)<sup>2,4</sup>
+* [Gergő Somorjai](https://collmot.com/)<sup>1,2,3</sup>
+* [Tamás Nepusz](http://hal.elte.hu/~nepusz/)<sup>3,5</sup>
+* [Agoston E. Eiben](https://www.cs.vu.nl/~gusz/)<sup>6</sup>
+* [Tamás Vicsek](http://hal.elte.hu/~vicsek/)<sup>1,2</sup>
+
+<sup>1</sup>[MTA-ELTE Statistical and Biological Physics Research Group](http://hal.elte.hu/)
+<sup>2</sup>[ELTE Department of Biological Physics](https://fizika.elte.hu/en/index.php?page=tanszek&tid=5)
+<sup>3</sup>[CollMot Robotics](https://collmot.com/)
+<sup>4</sup>[Morgan Stanley](https://www.morganstanley.com/)
+<sup>5</sup>[Molde University College](http://www.himolde.no/english/Sider/side.aspx)
+<sup>6</sup>[Vrije Universiteit Amsterdam](https://www.vu.nl/nl/index.aspx)
+
 
 ## Media Coverage
 
