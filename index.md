@@ -2,7 +2,7 @@
 
 ## Homepage for:
 
-Vásárhelyi, G.; Virágh, C.; Somorjai, G.; Nepusz, T.; Eiben, A. E. & Vicsek, T. *Optimized flocking of autonomous drones in confined environments*, _Science Robotics_, 2018
+Vásárhelyi, G.; Virágh, C.; Somorjai, G.; Nepusz, T.; Eiben, A. E. & Vicsek, T. **Optimized flocking of autonomous drones in confined environments**, _Science Robotics_, 2018
 
 ## Abstract
 
