@@ -31,6 +31,15 @@ The full article is made open-access and is available at **TODO**.
 
 The code basis of the multi-drone simulation that was used in the article is open-source and can be found at https://github.com/csviragh/robotsim
 
+## Authors
+
+* [Gábor Vásárhelyi](http://hal.elte.hu/~vasarhelyi/)
+* [Csaba Virágh](https://hal.elte.hu/flocking/wiki/public/en/people/CsabaViragh)
+* [Gergő Somorjai](https://collmot.com/)
+* [Tamás Nepusz](http://hal.elte.hu/~nepusz/)
+* [Agoston E. Eiben](https://www.cs.vu.nl/~gusz/)
+* [Tamás Vicsek](http://hal.elte.hu/~vicsek/)
+
 ## Media Coverage
 
 * Nothing yet but more to come
