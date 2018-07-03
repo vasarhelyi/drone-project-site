@@ -16,18 +16,18 @@ The full article is made open-access and is available at **TODO**.
 
 ## Download Supplementary Material
 
-* Supplementary Text, available at **TODO**
-* Movie S1. Simulation of old flocking model (algorithm A) with 100 agents, available [here](https://youtu.be/viEfowBXzho)
-* Movie S2. Simulation of new flocking model (algorithm B) after evolutionary optimization with 100 agents, available [here](https://youtu.be/t8kr79k3DUQ)
-* Movie S3. Simulation of flocking for different speeds (4-32 m/s), flock sizes (30-1000 agents) and scenarios, available [here](https://youtu.be/KPVfi9Pwuq8)
-* Movie S4. Flight log visualization of 30 drones at 4 m/s in a diagonal flight pattern, available [here](https://youtu.be/JMMGIQm7Ris)
-* Movie S5. Flight log visualization of 30 drones at 6 m/s with obstacles, available [here](https://youtu.be/YW5zDD70x8o)
-* Movie S6. Flight log visualization of 30 drones at 8 m/s in a circular flight pattern, available [here](https://youtu.be/GoiunzowSG4)
-* Movie S7. Summarizing documentary with simulation, flight log visualization and footage on real flights, available [here](https://youtu.be/loemTAEGWfg)
+* Supplementary Text, available at **TODO**.
+* Movie S1. Simulation of old flocking model (algorithm A) with 100 agents, available [here](https://youtu.be/viEfowBXzho).
+* Movie S2. Simulation of new flocking model (algorithm B) after evolutionary optimization with 100 agents, available [here](https://youtu.be/t8kr79k3DUQ).
+* Movie S3. Simulation of flocking for different speeds (4-32 m/s), flock sizes (30-1000 agents) and scenarios, available [here](https://youtu.be/KPVfi9Pwuq8).
+* Movie S4. Flight log visualization of 30 drones at 4 m/s in a diagonal flight pattern, available [here](https://youtu.be/JMMGIQm7Ris).
+* Movie S5. Flight log visualization of 30 drones at 6 m/s with obstacles, available [here](https://youtu.be/YW5zDD70x8o).
+* Movie S6. Flight log visualization of 30 drones at 8 m/s in a circular flight pattern, available [here](https://youtu.be/GoiunzowSG4).
+* Movie S7. Summarizing documentary with simulation, flight log visualization and footage on real flights, available [here](https://youtu.be/loemTAEGWfg).
 
 ## Simulation Code
 
-The code basis of the multi-drone simulation that was used in the article is open-source and can be found at https://github.com/csviragh/robotsim
+The code basis of the multi-drone simulation that was used in the article is open-source and can be found at [github.com/csviragh/robotsim](https://github.com/csviragh/robotsim).
 
 ## Authors
 
@@ -38,13 +38,12 @@ The code basis of the multi-drone simulation that was used in the article is ope
 * [Agoston E. Eiben](https://www.cs.vu.nl/~gusz/)<sup>6</sup>
 * [Tamás Vicsek](http://hal.elte.hu/~vicsek/)<sup>1,2</sup>
 
-<sup>1</sup>[MTA-ELTE Statistical and Biological Physics Research Group](http://hal.elte.hu/)
-<sup>2</sup>[ELTE Department of Biological Physics](https://fizika.elte.hu/en/index.php?page=tanszek&tid=5)
-<sup>3</sup>[CollMot Robotics](https://collmot.com/)
-<sup>4</sup>[Morgan Stanley](https://www.morganstanley.com/)
-<sup>5</sup>[Molde University College](http://www.himolde.no/english/Sider/side.aspx)
+<sup>1</sup>[MTA-ELTE Statistical and Biological Physics Research Group](http://hal.elte.hu/)<br/>
+<sup>2</sup>[ELTE Department of Biological Physics](https://fizika.elte.hu/en/index.php?page=tanszek&tid=5)<br/>
+<sup>3</sup>[CollMot Robotics](https://collmot.com/)<br/>
+<sup>4</sup>[Morgan Stanley](https://www.morganstanley.com/)<br/>
+<sup>5</sup>[Molde University College](http://www.himolde.no/english/Sider/side.aspx)<br/>
 <sup>6</sup>[Vrije Universiteit Amsterdam](https://www.vu.nl/nl/index.aspx)
-
 
 ## Media Coverage
 
