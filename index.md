@@ -4,7 +4,7 @@ G. Vásárhelyi, Cs. Virágh, G. Somorjai, T. Nepusz, A. E. Eiben, T. Vicsek, **
 
 ## Video Abstract
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/uvrBQXFqrIc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/E4XpyG4eMKE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Abstract
 
@@ -25,7 +25,7 @@ The full article is made open-access and is available at **TODO**.
 * Movie S4. Flight log visualization of 30 drones at 4 m/s in a diagonal flight pattern, available [here](https://youtu.be/JMMGIQm7Ris).
 * Movie S5. Flight log visualization of 30 drones at 6 m/s with obstacles, available [here](https://youtu.be/YW5zDD70x8o).
 * Movie S6. Flight log visualization of 30 drones at 8 m/s in a circular flight pattern, available [here](https://youtu.be/GoiunzowSG4).
-* Movie S7. Summarizing documentary with simulation, flight log visualization and footage on real flights, available [here](https://youtu.be/uvrBQXFqrIc).
+* Movie S7. Summarizing documentary with simulation, flight log visualization and footage on real flights, available [here](https://youtu.be/E4XpyG4eMKE).
 
 ## Download Flight Logs
 
