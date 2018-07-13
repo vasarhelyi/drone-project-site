@@ -6,6 +6,13 @@ G. Vásárhelyi, Cs. Virágh, G. Somorjai, T. Nepusz, A. E. Eiben, T. Vicsek, **
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/E4XpyG4eMKE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+## Q&A
+
+**TODO**
+
+* **What problem is solved here?**
+TODO TODO
+
 ## Abstract
 
 **TODO**: will change slightly in final version...
