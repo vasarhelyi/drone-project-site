@@ -74,7 +74,7 @@ The full article is made open-access and is available at **TODO**.
 
 ## Download Flight Logs
 
-Flight logs related to the article are accessible [here](https://doi.org/10.5061/dryad.mq85r61).
+Flight logs related to the article are accessible [at Dryad](https://doi.org/10.5061/dryad.mq85r61).
 
 
 ## Download Simulation Code
