@@ -19,15 +19,15 @@ This is a basic building block of self-organized drone swarm coordination using 
 * **What is new here? What solutions were known before this study?**
 Our previous results showed maximum 10 drones at slower speed, with less stability.
 Results for dozens of autonomous drones have only been presented indoors, relying on expensive and immobile local positioning systems and central computation and control.
-Our solution is noise tolerant, works with low resolution outdoor positioning systems (e.g. GPS) anywhere in the world. Our drone swarm control is scalable in group size and speed due to the combination of realistic modeling and evolutionary optimization
+Our solution is noise tolerant, works with low resolution outdoor positioning systems (e.g. GPS) anywhere in the world. Our drone swarm control is scalable in group size and speed due to the combination of realistic modeling and evolutionary optimization.
 
 * **What is the essence of the new solution? What is the key insight of this research? What is THE result?**
 We derived a general distributed swarm control framework with many parameters. We focus on model instances instead of models, that is, (evolutionary) optimization is part of the solution.
-The key concept in the model is the optimal combination of natural flocking algorithms with distributed motion planning
+The key concept in the model is the optimal combination of natural flocking algorithms with distributed motion planning.
 
 * **What makes the solution/insight/result so cool that Science Robotics published it?**
 We presented 30 drones flying autonomously without central control (no ground station, no pilots).
-The solution is scalable in the number of drones and in the speed of flight (1000 drones @ 115 km/h presented in simulation)
+The solution is scalable in the number of drones and in the speed of flight (1000 drones @ 115 km/h presented in simulation).
 
 * **Are there any practical applications?**
 This is the “coordination” level which is the basis for all swarm applications (“cooperation”, “collaboration”).
@@ -43,11 +43,11 @@ Yes, if someone makes them to do so. Just like a knife, which can be used for go
 
 * **What next? Finished? Continued? Diverted?**
   * Fundamental science:
-    We keep learning from natural systems (e.g. by creating hierarchical / heterogeneous flocks instead of egalitarian ones)
-    We aim for real-time optimized / adaptive systems
-    We do application specific research using the collective motion of drones
+    We keep learning from natural systems (e.g. by creating hierarchical / heterogeneous flocks instead of egalitarian ones).
+    We aim for real-time optimized / adaptive systems.
+    We do application specific research using the collective motion of drones.
   * Commercial applications: 
-    We provide multi-drone services through CollMot Robotics (www.collmot.com) 
+    We provide multi-drone services through [CollMot Robotics](https://www.collmot.com/).
 
 
 ## Abstract
