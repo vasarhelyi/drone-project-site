@@ -101,4 +101,16 @@ The code basis of the multi-drone simulation that was used in the article is ope
 
 ## Media Coverage
 
-* Nothing yet but more to come
+### English
+
+* WIRED
+* Inverse
+* Chemical & Engineering News (published by the American Chemical Society)
+* Quartz
+
+### Hungarian
+
+* ELTE
+* MTI
+
+### Dutch
