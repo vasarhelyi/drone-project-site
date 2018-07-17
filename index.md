@@ -99,6 +99,12 @@ The code basis of the multi-drone simulation that was used in the article is ope
 <sup>6</sup>[Vrije Universiteit Amsterdam](https://www.vu.nl/nl/index.aspx)
 
 
+## Funding
+
+* USAF Grant No: FA9550-17-1-0037;
+* K_16 Research Grant of the Hungarian National Research, Development and Innovation Office (K 119467);
+* János Bolyai Research Scholarship of the Hungarian Academy of Sciences (BO/00219/15/6).
+
 ## Media Coverage
 
 ### English
