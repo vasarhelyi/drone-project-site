@@ -120,3 +120,5 @@ The code basis of the multi-drone simulation that was used in the article is ope
 * MTI
 
 ### Dutch
+
+* [Doorbraak: drones kunnen voor het eerst geheel zelfstandig in formatie vliegen (volkskrant.nl, 2018.07.18.)](https://www.volkskrant.nl/wetenschap/doorbraak-drones-kunnen-voor-het-eerst-geheel-zelfstandig-in-formatie-vliegen~b092c1d1/)
