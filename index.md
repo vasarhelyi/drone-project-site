@@ -1,6 +1,6 @@
 This site is dedicated to the research article
 
-G. Vásárhelyi, Cs. Virágh, G. Somorjai, T. Nepusz, A. E. Eiben, T. Vicsek, **Optimized flocking of autonomous drones in confined environments**, _Science Robotics_, **3**, eaat3536 (2018)
+G. Vásárhelyi, Cs. Virágh, G. Somorjai, T. Nepusz, A. E. Eiben, T. Vicsek, **Optimized flocking of autonomous drones in confined environments**, _Science Robotics_, **3**, [eaat3536](http://robotics.sciencemag.org/content/3/20/eaat3536) (2018)
 
 
 ## Video Abstract
@@ -57,12 +57,12 @@ We address a fundamental issue of collective motion of aerial robots: how to ens
 
 ## Download Full Text
 
-The full article is made open-access and is available at **TODO**.
+The full article is available online at [Science Robotics](http://robotics.sciencemag.org/content/3/20/eaat3536).
 
 
 ## Download Supplementary Material
 
-* **Supplementary Text** available at **TODO**.
+* **Supplementary Text** available at [Science Robotics](http://robotics.sciencemag.org/content/3/20/eaat3536).
 * **Movie S1.** Simulation of old flocking model (algorithm A) with 100 agents, available [on YouTube](https://youtu.be/viEfowBXzho).
 * **Movie S2.** Simulation of new flocking model (algorithm B) after evolutionary optimization with 100 agents, available [on YouTube](https://youtu.be/t8kr79k3DUQ).
 * **Movie S3.** Simulation of flocking for different speeds (4-32 m/s), flock sizes (30-1000 agents) and scenarios, available [on YouTube](https://youtu.be/KPVfi9Pwuq8).
