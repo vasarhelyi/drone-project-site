@@ -109,8 +109,8 @@ The code basis of the multi-drone simulation that was used in the article is ope
 
 ### English
 
-* [How a flock of drones developed collective intelligence (WIRED)](https://www.wired.com/story/how-a-flock-of-drones-developed-collective-intelligence/)
-* Inverse
+* [How a flock of drones developed collective intelligence (wired.com, 2018.07.18.)](https://www.wired.com/story/how-a-flock-of-drones-developed-collective-intelligence/)
+* [Drones are Programmed to Flock Exactly Like Birds in New Breakthrough Study (inverse.com, 2018.07.18.)](https://www.inverse.com/article/47138-drone-breakthrough-flocks-delivery-quadcopters)
 * Chemical & Engineering News (published by the American Chemical Society)
 * Quartz
 
