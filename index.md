@@ -109,7 +109,7 @@ The code basis of the multi-drone simulation that was used in the article is ope
 
 ### English
 
-* WIRED
+* [How a flock of drones developed collective intelligence (WIRED)](https://www.wired.com/story/how-a-flock-of-drones-developed-collective-intelligence/)
 * Inverse
 * Chemical & Engineering News (published by the American Chemical Society)
 * Quartz
