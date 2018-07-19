@@ -38,7 +38,7 @@ The solution is scalable in the number of drones and in the speed of flight (100
 
 * **Are there any practical applications?**
 This is the “coordination” level which is the basis for all swarm applications (“cooperation”, “collaboration”).
-All applications where a bunch of drones need to do something autonomously together, e.g. environmental monitoring (!), collective / self-organized search and rescue operations, crowd inspection, fighting forest fires, precision agriculture, dikes inspection (Netherlands).
+All applications where a bunch of drones need to do something autonomously together, e.g. distributed environmental monitoring, collective / self-organized search and rescue operations, crowd inspection, fighting forest fires, precision agriculture, dikes inspection (Netherlands) or drone delivery on massive scale in urban environments.
 
 * **Are the autonomous drones dangerous or can they become dangerous?**
 Yes, if someone makes them to do so. Just like a knife, which can be used for good and bad. It is a collective responsibility of humanity to use any technological innovation peacefully. Our drones have never been used for military applications, while we actively help wildlife protection, environmental monitoring and precision agriculture.
