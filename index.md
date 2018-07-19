@@ -125,7 +125,8 @@ The code basis of the multi-drone simulation that was used in the article is ope
 ### Hungarian
 
 * [Beszélgető drónrajok, összehangolt repülés (elte.hu, 2018.07.19.)](https://www.elte.hu/content/beszelgeto-dronrajok-osszehangolt-repules.t.17006)
-* MTI
+* [Újfajta drónvezérlést fejlesztettek ki magyar kutatók (index.hu, 2018.07.19.)](https://index.hu/tech/2018/07/19/madarrajok_ihlettek_az_elte-n_kifejlesztett_dronvezerlest/)
+* [Önjáró drónrajokat hoztak létre magyar kutatók (infostart.hu, 2018.07.19.)](https://infostart.hu/tudomany/2018/07/18/onjaro-dronrajokat-hoztak-letre-magyar-kutatok)
 
 ### Dutch
 
