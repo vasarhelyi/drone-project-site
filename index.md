@@ -1,4 +1,8 @@
-![Science Robotics July Cover](assets/img/science_robotics_cover.jpg){: .image-left; width="100px"}
+<figure class="float-left">
+<img src="assets/img/science_robotics_cover.jpg" alt="Science Robotics 2018 July Cover" width="100" />
+</figure>
+
+[comment]: # ![Science Robotics 2018 July Cover](assets/img/science_robotics_cover.jpg){: .image-left; width="100px"}
 
 This site is dedicated to the research article
 
