@@ -119,14 +119,16 @@ The code basis of the multi-drone simulation that was used in the article is ope
 * [How a flock of drones developed collective intelligence (wired.com, 2018.07.18.)](https://www.wired.com/story/how-a-flock-of-drones-developed-collective-intelligence/)
 * [Drones are Programmed to Flock Exactly Like Birds in New Breakthrough Study (inverse.com, 2018.07.18.)](https://www.inverse.com/article/47138-drone-breakthrough-flocks-delivery-quadcopters)
 * [Autonomous and cooperating: the dawn of the drone swarm (cosmosmagazine.com, 2018.07.18.)](https://cosmosmagazine.com/technology/autonomous-and-cooperating-the-dawn-of-the-drone-swarm)
-* Chemical & Engineering News (published by the American Chemical Society)
-* Quartz
+* [Researchers Create Drones that Flock Together Like Birds in Breakthrough Study (dronebelow.com, 2018.07.19.)](https://dronebelow.com/2018/07/19/drones-flock-birds-breakthrough-study/)
+* [A better way to control a swarm of drones (techxplore.com, 2018.07.19.)](https://m.techxplore.com/news/2018-07-swarm-drones.html)
 
 ### Hungarian
 
 * [Beszélgető drónrajok, összehangolt repülés (elte.hu, 2018.07.19.)](https://www.elte.hu/content/beszelgeto-dronrajok-osszehangolt-repules.t.17006)
 * [Újfajta drónvezérlést fejlesztettek ki magyar kutatók (index.hu, 2018.07.19.)](https://index.hu/tech/2018/07/19/madarrajok_ihlettek_az_elte-n_kifejlesztett_dronvezerlest/)
 * [Önjáró drónrajokat hoztak létre magyar kutatók (infostart.hu, 2018.07.19.)](https://infostart.hu/tudomany/2018/07/18/onjaro-dronrajokat-hoztak-letre-magyar-kutatok)
+* [Biológiai motivációjú algoritmusokat és az evolúció elvét használták az új csoportos drónvezérlés megalkotásához az ELTE kutatói (webradio.hu, 2018.07.19.)](http://webradio.hu/hirek/it-tudomany/biologiai-motivacioju-algoritmusokat-es-az-evolucio-elvet-hasznaltak-az-uj-csoportos-dronvezerles-megalkotasahoz-az-elte-kutatoi)
+ * [Csoportos drónvezérléshez írtak algoritmusokat az ELTE kutatói (origo.hu, 2018.07.19.)](http://www.origo.hu/tudomany/20180719-biologiai-motivacioju-algoritmusokat-es-az-evolucio-elvet-hasznaltak-az-uj-csoportos-dronvezerleshez.html)
 
 ### Dutch
 
