@@ -113,6 +113,7 @@ The code basis of the multi-drone simulation that was used in the article is ope
 
 * [How a flock of drones developed collective intelligence (wired.com, 2018.07.18.)](https://www.wired.com/story/how-a-flock-of-drones-developed-collective-intelligence/)
 * [Drones are Programmed to Flock Exactly Like Birds in New Breakthrough Study (inverse.com, 2018.07.18.)](https://www.inverse.com/article/47138-drone-breakthrough-flocks-delivery-quadcopters)
+* [Autonomous and cooperating: the dawn of the drone swarm (cosmosmagazine.com, 2018.07.18.)](https://cosmosmagazine.com/technology/autonomous-and-cooperating-the-dawn-of-the-drone-swarm)
 * Chemical & Engineering News (published by the American Chemical Society)
 * Quartz
 
