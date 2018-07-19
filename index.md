@@ -135,7 +135,6 @@ The code basis of the multi-drone simulation that was used in the article is ope
  * [A Science Robotics folyóiratban az ELTE kutatói: Önálló drón-rajokhoz írtak világszínvonalú algoritmusokat (vilagfigyelo.com, 2018.07.19)](https://vilagfigyelo.com/a-science-robotics-folyoiratban-az-elte-kutatoi-csoportos-dronvezerleshez-irtak-vilagszinvonalu-algoritmusokat/)
  * [Magyar kutatók rávették a drónokat az össszehangolt működésre  (ng.hu, 2018.07.19.)](http://www.ng.hu/Tudomany/2018/07/19/Magyar-kutatok-ravettek-a-dronokat-az-ossszehangolt-mukodesre)
  * [Címlapra kerültek az ELTE tudósai, akik kitaláltak egy drónos okosságot (hvg.hu, 2018.07.19.)](http://hvg.hu/tudomany/20180719_elte_dronok_dronraj_osszehangolt_repulese_science_robotics)
- * 
 
 ### Dutch
 
