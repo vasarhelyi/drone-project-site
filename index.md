@@ -1,4 +1,4 @@
-![Science Robotics July Cover](assets/img/science_robotics_cover.jpg)
+![Science Robotics July Cover](assets/img/science_robotics_cover.jpg){:width="300px"}
 
 This site is dedicated to the research article
 
