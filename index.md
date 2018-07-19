@@ -119,7 +119,7 @@ The code basis of the multi-drone simulation that was used in the article is ope
 
 ### Hungarian
 
-* [Beszélgető drónrajok, összehangolt repülés (ELTE, 2018.07.19.)](https://www.elte.hu/content/beszelgeto-dronrajok-osszehangolt-repules.t.17006)
+* [Beszélgető drónrajok, összehangolt repülés (elte.hu, 2018.07.19.)](https://www.elte.hu/content/beszelgeto-dronrajok-osszehangolt-repules.t.17006)
 * MTI
 
 ### Dutch
