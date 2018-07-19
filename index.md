@@ -137,6 +137,7 @@ The code basis of the multi-drone simulation that was used in the article is ope
 
 * [Doorbraak: drones kunnen voor het eerst geheel zelfstandig in formatie vliegen (volkskrant.nl, 2018.07.18.)](https://www.volkskrant.nl/wetenschap/doorbraak-drones-kunnen-voor-het-eerst-geheel-zelfstandig-in-formatie-vliegen~b092c1d1/)
 * [Amsterdamse onderzoeker vestigt wereldrecord met zwerm drones (parool.nl, 2018.07.19.)](https://www.parool.nl/amsterdam/amsterdamse-onderzoeker-vestigt-wereldrecord-met-zwerm-drones~a4601695/)
+* [Wereldrecord zelf vliegende drones in één zwerm (vrijetijdamsterdam.nl, 2018.07.19.)](https://vrijetijdamsterdam.nl/algemeen/studenten/wereldrecord-zelf-vliegende-drones-in-een-zwerm/)
 
 ### Spanish
 
