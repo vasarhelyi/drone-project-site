@@ -129,6 +129,9 @@ The code basis of the multi-drone simulation that was used in the article is ope
 * [Önjáró drónrajokat hoztak létre magyar kutatók (infostart.hu, 2018.07.19.)](https://infostart.hu/tudomany/2018/07/18/onjaro-dronrajokat-hoztak-letre-magyar-kutatok)
 * [Biológiai motivációjú algoritmusokat és az evolúció elvét használták az új csoportos drónvezérlés megalkotásához az ELTE kutatói (webradio.hu, 2018.07.19.)](http://webradio.hu/hirek/it-tudomany/biologiai-motivacioju-algoritmusokat-es-az-evolucio-elvet-hasznaltak-az-uj-csoportos-dronvezerles-megalkotasahoz-az-elte-kutatoi)
  * [Csoportos drónvezérléshez írtak algoritmusokat az ELTE kutatói (origo.hu, 2018.07.19.)](http://www.origo.hu/tudomany/20180719-biologiai-motivacioju-algoritmusokat-es-az-evolucio-elvet-hasznaltak-az-uj-csoportos-dronvezerleshez.html)
+ * [Drónvezérléssel kísérleteztek az ELTE kutatói (orientpress.hu, 2018.07.19.)](http://www.orientpress.hu/cikk/2018-07-19_dronvezerlessel-kiserleteztek-az-elte-kutatoi)
+ * [Beszélgető drónrajok, összehangolt repülés (civilhetes.net, 2018.07.19.)](https://civilhetes.net/beszelgeto-dronrajok-osszehangolt-repules)
+ * [Beszélgető drónrajok, összehangolt repülés (euroastra.blog.hu, 2018.07.19.)](https://euroastra.blog.hu/2018/07/19/beszelgeto_dronrajok_osszehangolt_repules)
 
 ### Dutch
 
