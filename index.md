@@ -138,7 +138,7 @@ The code basis of the multi-drone simulation that was used in the article is ope
  * [Úttörő drónvezérlést fejlesztettek ki a magyar kutatók (24.hu, 2018.07.20.)](https://24.hu/tech/2018/07/20/uttoro-dronvezerlest-fejlesztettek-ki-a-magyar-kutatok/)
  * [Világsiker: csoportos drónvezérlést fejlesztettek az ELTE-s kutatók (eduline.hu, 2018.07.20.)](http://m.eduline.hu/felsooktatas/2018/7/20/uj_dronvezerles_ELTE_kutatok_BMC3MN)
  * [Óriási rajt hoztak létre magyar kutatók önvezérlő drónokból (qubit.hu, 2018.07.20.)](https://qubit.hu/2018/07/20/oriasi-rajt-hoztak-letre-magyar-kutatok-onvezerlo-dronokbol)
- * [Világraszóló magyar fejlesztés: autonóm drónrajok lephetik el az eget? (2018.07.20.)](https://www.nlcafe.hu/magyarorszagkul/20180720/vilagraszolo-magyar-fejlesztes-autonom-dronrajok-lephetik-el-az-eget/)
+ * [Világraszóló magyar fejlesztés: autonóm drónrajok lephetik el az eget? (nlcafe.hu, 2018.07.20.)](https://www.nlcafe.hu/magyarorszagkul/20180720/vilagraszolo-magyar-fejlesztes-autonom-dronrajok-lephetik-el-az-eget/)
 
 ### Dutch
 
