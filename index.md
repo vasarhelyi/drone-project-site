@@ -135,6 +135,10 @@ The code basis of the multi-drone simulation that was used in the article is ope
  * [A Science Robotics folyóiratban az ELTE kutatói: Önálló drón-rajokhoz írtak világszínvonalú algoritmusokat (vilagfigyelo.com, 2018.07.19)](https://vilagfigyelo.com/a-science-robotics-folyoiratban-az-elte-kutatoi-csoportos-dronvezerleshez-irtak-vilagszinvonalu-algoritmusokat/)
  * [Magyar kutatók rávették a drónokat az össszehangolt működésre  (ng.hu, 2018.07.19.)](http://www.ng.hu/Tudomany/2018/07/19/Magyar-kutatok-ravettek-a-dronokat-az-ossszehangolt-mukodesre)
  * [Címlapra kerültek az ELTE tudósai, akik kitaláltak egy drónos okosságot (hvg.hu, 2018.07.19.)](http://hvg.hu/tudomany/20180719_elte_dronok_dronraj_osszehangolt_repulese_science_robotics)
+ * [Úttörő drónvezérlést fejlesztettek ki a magyar kutatók (24.hu, 2018.07.20.)](https://24.hu/tech/2018/07/20/uttoro-dronvezerlest-fejlesztettek-ki-a-magyar-kutatok/)
+ * [Világsiker: csoportos drónvezérlést fejlesztettek az ELTE-s kutatók (eduline.hu, 2018.07.20.)](http://m.eduline.hu/felsooktatas/2018/7/20/uj_dronvezerles_ELTE_kutatok_BMC3MN)
+ * [Óriási rajt hoztak létre magyar kutatók önvezérlő drónokból (qubit.hu, 2018.07.20.)](https://qubit.hu/2018/07/20/oriasi-rajt-hoztak-letre-magyar-kutatok-onvezerlo-dronokbol)
+ * [Világraszóló magyar fejlesztés: autonóm drónrajok lephetik el az eget? (2018.07.20.)](https://www.nlcafe.hu/magyarorszagkul/20180720/vilagraszolo-magyar-fejlesztes-autonom-dronrajok-lephetik-el-az-eget/)
 
 ### Dutch
 
@@ -142,6 +146,8 @@ The code basis of the multi-drone simulation that was used in the article is ope
 * [Amsterdamse onderzoeker vestigt wereldrecord met zwerm drones (parool.nl, 2018.07.19.)](https://www.parool.nl/amsterdam/amsterdamse-onderzoeker-vestigt-wereldrecord-met-zwerm-drones~a4601695/)
 * [Wereldrecord zelf vliegende drones in één zwerm (vu.nl, 2018.07.19.)](https://www.vu.nl/nl/nieuws-agenda/nieuws/2018/jul-sep/wereldrecord-zelfvliegende-drones-in-een-zwerm.aspx)
 * [Wereldrecord zelf vliegende drones in één zwerm (vrijetijdamsterdam.nl, 2018.07.19.)](https://vrijetijdamsterdam.nl/algemeen/studenten/wereldrecord-zelf-vliegende-drones-in-een-zwerm/)
+* [Wereldrecord zelfvliegende drones in één zwerm (blikopnieuws.nl, 2018.07.19.)](http://www.blikopnieuws.nl/wetenschap/265691/wereldrecord-zelfvliegende-drones-in-een-zwerm.html)
+* [Zwerm drones vliegt autonoom (deingenieur.nl, 2018.07.20)](https://www.deingenieur.nl/artikel/zwerm-drones-vliegt-autonoom)
 
 
 ### Spanish
