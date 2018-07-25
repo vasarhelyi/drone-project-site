@@ -122,6 +122,7 @@ The code basis of the multi-drone simulation that was used in the article is ope
 * Researchers Create Drones that Flock Together Like Birds in Breakthrough Study [(dronebelow.com, 2018.07.19.)](https://dronebelow.com/2018/07/19/drones-flock-birds-breakthrough-study/)
 * A better way to control a swarm of drones [(techxplore.com, 2018.07.19.)](https://m.techxplore.com/news/2018-07-swarm-drones.html)
 * Scientists have invented an autonomous flock of drones that think collectively [(qz.com, 2018.07.24.)](https://qz.com/1333190/scientists-have-invented-a-group-of-self-flying-drones-that-think-collectively/)
+* UAV252 An Autonomous Flock of Drones [(theuavdigest.com, 2018.07.25.)](https://theuavdigest.com/uav252-an-autonomous-flock-of-drones/)
 
 
 ### Hungarian
