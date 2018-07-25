@@ -121,8 +121,7 @@ The code basis of the multi-drone simulation that was used in the article is ope
 * Autonomous and cooperating: the dawn of the drone swarm [(cosmosmagazine.com, 2018.07.18.)](https://cosmosmagazine.com/technology/autonomous-and-cooperating-the-dawn-of-the-drone-swarm)
 * Researchers Create Drones that Flock Together Like Birds in Breakthrough Study [(dronebelow.com, 2018.07.19.)](https://dronebelow.com/2018/07/19/drones-flock-birds-breakthrough-study/)
 * A better way to control a swarm of drones [(techxplore.com, 2018.07.19.)](https://m.techxplore.com/news/2018-07-swarm-drones.html)
-* Flock of drones (Quartz video on [Facebook](https://www.facebook.com/quartznews/videos/2144977452202612/) and [YouTube](https://www.youtube.com/watch?v=3TYqTtmWhx4&t=55s), 2018.07.23.)
-* Scientists have invented an autonomous flock of drones that think collectively [(qz.com, 2018.07.24.)](https://qz.com/1333190/scientists-have-invented-a-group-of-self-flying-drones-that-think-collectively/)
+* Scientists have invented an autonomous flock of drones that think collectively [(qz.com, 2018.07.24.)](https://qz.com/1333190/scientists-have-invented-a-group-of-self-flying-drones-that-think-collectively/), (video on [Facebook](https://www.facebook.com/quartznews/videos/2144977452202612/) and [YouTube](https://www.youtube.com/watch?v=3TYqTtmWhx4&t=55s)
 
 
 ### Hungarian
