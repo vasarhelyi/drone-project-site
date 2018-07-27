@@ -165,7 +165,7 @@ The code basis of the multi-drone simulation that was used in the article is ope
 
 ### German
 
-* Bild der Woche - Drohnen im Schwarmflug[(wissenschaft.de, 2018.07.26.)](https://www.wissenschaft.de/bildervideos/bild-der-woche/drohnen-im-schwarmflug/)
+* Bild der Woche - Drohnen im Schwarmflug [(wissenschaft.de, 2018.07.26.)](https://www.wissenschaft.de/bildervideos/bild-der-woche/drohnen-im-schwarmflug/)
 
 ### Spanish
 
