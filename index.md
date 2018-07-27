@@ -118,7 +118,7 @@ The code basis of the multi-drone simulation that was used in the article is ope
 * Janosov, M., Virágh, C., Vásárhelyi, G., & Vicsek, T. (2017). Group chasing tactics: how to catch a faster prey. _New Journal Of Physics, 19_(5), 053003. [[pdf]](http://hal.elte.hu/~vasarhelyi/doc/janosov2017group.pdf)
 * Vásárhelyi, G., Virágh, C., Tarcai, N., Szörényi, T., Somorjai, G., Nepusz, T., & Vicsek, T. (2014). Outdoor flocking and formation flight with autonomous aerial robots. In _Intelligent Robots and Systems (IROS 2014), 2014 IEEE/RSJ International Conference on_ (pp. 3866–3873). doi:10.1109/IROS.2014.6943105 [[pdf]](http://hal.elte.hu/~vasarhelyi/doc/vasarhelyi2014outdoor.pdf)
 * Virágh, C., Vásárhelyi, G., Tarcai, N., Szörényi, T., Somorjai, G., Nepusz, T., & Vicsek, T. (2014). Flocking algorithm for autonomous flying robots. _Bioinspiration &Amp; Biomimetics, 9_(2), 025012. doi:10.1088/1748-3182/9/2/025012 [[pdf]](http://hal.elte.hu/~vasarhelyi/doc/viragh2014flocking.pdf)
-* Tamás Vicsek and Anna Zafeiris: "Collective motion". _Physics Reports 517_(3) pp. 71–140, (2012).[[pdf]](https://arxiv.org/pdf/1010.5017&quot;&gt;)
+* Tamás Vicsek and Anna Zafeiris: "Collective motion". _Physics Reports 517_(3) pp. 71–140, (2012).[[pdf]](https://arxiv.org/pdf/1010.5017)
 
 ## Media Coverage
 
