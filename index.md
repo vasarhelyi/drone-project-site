@@ -112,7 +112,7 @@ The code basis of the multi-drone simulation that was used in the article is ope
 * K_16 Research Grant of the Hungarian National Research, Development and Innovation Office (K 119467);
 * János Bolyai Research Scholarship of the Hungarian Academy of Sciences (BO/00219/15/6).
 
-## Our Related Publications
+## Related Publications
 
 * Balázs, B., & Vásárhelyi, G. (2018). Coordinated dense aerial traffic with self-driving drones. In _Robotics and Automation (ICRA 2018)_, International Conference on. [[pdf]](http://hal.elte.hu/~vasarhelyi/doc/balazs2018coordinated.pdf)
 * Janosov, M., Virágh, C., Vásárhelyi, G., & Vicsek, T. (2017). Group chasing tactics: how to catch a faster prey. _New Journal Of Physics, 19_(5), 053003. [[pdf]](http://hal.elte.hu/~vasarhelyi/doc/janosov2017group.pdf)
