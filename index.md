@@ -163,6 +163,9 @@ The code basis of the multi-drone simulation that was used in the article is ope
 * Wereldrecord zelfvliegende drones in één zwerm [(blikopnieuws.nl, 2018.07.19.)](http://www.blikopnieuws.nl/wetenschap/265691/wereldrecord-zelfvliegende-drones-in-een-zwerm.html)
 * Zwerm drones vliegt autonoom [(deingenieur.nl, 2018.07.20)](https://www.deingenieur.nl/artikel/zwerm-drones-vliegt-autonoom)
 
+### German
+
+* Bild der Woche - Drohnen im Schwarmflug[(wissenschaft.de, 2018.07.26.)](https://www.wissenschaft.de/bildervideos/bild-der-woche/drohnen-im-schwarmflug/)
 
 ### Spanish
 
