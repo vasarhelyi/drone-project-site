@@ -153,8 +153,8 @@ The code basis of the multi-drone simulation that was used in the article is ope
  * Világsiker: csoportos drónvezérlést fejlesztettek az ELTE-s kutatók [(eduline.hu, 2018.07.20.)](http://m.eduline.hu/felsooktatas/2018/7/20/uj_dronvezerles_ELTE_kutatok_BMC3MN)
  * Óriási rajt hoztak létre magyar kutatók önvezérlő drónokból [(qubit.hu, 2018.07.20.)](https://qubit.hu/2018/07/20/oriasi-rajt-hoztak-letre-magyar-kutatok-onvezerlo-dronokbol)
  * Világraszóló magyar fejlesztés: autonóm drónrajok lephetik el az eget? [(nlcafe.hu, 2018.07.20.)](https://www.nlcafe.hu/magyarorszagkul/20180720/vilagraszolo-magyar-fejlesztes-autonom-dronrajok-lephetik-el-az-eget/)
-* Önjáró drónrajokat hoztak létre magyar kutatók ([elobolygonk.hu, 2018.07.23.](https://www.elobolygonk.hu/Innovativ_trendek/Mezogazdasag/2018_07_23/onjaro_dronrajokat_hoztak_letre_magyar_kutatok))
-* Akadálykerülő Drónok ([magyaridok.hu, 2018.07.26.](https://magyaridok.hu/tudomany/akadalykerulo-dronok-3327731/))
+* Önjáró drónrajokat hoztak létre magyar kutatók [(elobolygonk.hu, 2018.07.23.)](https://www.elobolygonk.hu/Innovativ_trendek/Mezogazdasag/2018_07_23/onjaro_dronrajokat_hoztak_letre_magyar_kutatok)
+* Akadálykerülő Drónok [(magyaridok.hu, 2018.07.26.)](https://magyaridok.hu/tudomany/akadalykerulo-dronok-3327731/)
 
 ### Dutch
 
