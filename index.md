@@ -155,6 +155,7 @@ The code basis of the multi-drone simulation that was used in the article is ope
  * Világraszóló magyar fejlesztés: autonóm drónrajok lephetik el az eget? [(nlcafe.hu, 2018.07.20.)](https://www.nlcafe.hu/magyarorszagkul/20180720/vilagraszolo-magyar-fejlesztes-autonom-dronrajok-lephetik-el-az-eget/)
 * Önjáró drónrajokat hoztak létre magyar kutatók [(elobolygonk.hu, 2018.07.23.)](https://www.elobolygonk.hu/Innovativ_trendek/Mezogazdasag/2018_07_23/onjaro_dronrajokat_hoztak_letre_magyar_kutatok)
 * Akadálykerülő Drónok [(magyaridok.hu, 2018.07.26.)](https://magyaridok.hu/tudomany/akadalykerulo-dronok-3327731/)
+* Spájz [(karcfm, 2018.07.26., 16:45-25:45)](https://www.mixcloud.com/karcfm/sp%C3%A1jz-2018-07-26-0900-1159-1/)
 
 ### Dutch
 
