@@ -158,6 +158,7 @@ The code basis of the multi-drone simulation that was used in the article is ope
 * Önjáró drónrajokat hoztak létre magyar kutatók [(elobolygonk.hu, 2018.07.23.)](https://www.elobolygonk.hu/Innovativ_trendek/Mezogazdasag/2018_07_23/onjaro_dronrajokat_hoztak_letre_magyar_kutatok)
 * Akadálykerülő Drónok [(magyaridok.hu, 2018.07.26.)](https://magyaridok.hu/tudomany/akadalykerulo-dronok-3327731/)
 * Spájz [(karcfm, 2018.07.26., 16:45-25:45)](https://www.mixcloud.com/karcfm/sp%C3%A1jz-2018-07-26-0900-1159-1/)
+* Közelről: Drónrajok a levegőben [(Kossuth rádió, 2018.08.02.)](http://hangtar.radio.hu/share-1-20180802_154757#!#2018-08-02)
 * Csoportos megfigyelés, csomag- vagy emberszállítás: az önvezető drónok segítenek [(eduline.hu, 2018.08.03.)](http://eduline.hu/felsooktatas/2018/8/3/dronfejlesztes_egyetemi_kutatok_M8ZFFP)
 * Tudomány minden napra [(M5, 2018.08.10.)](https://www.mediaklikk.hu/video/tudomany-minden-napra-2018-08-10-i-adas/)
 
