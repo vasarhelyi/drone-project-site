@@ -3,7 +3,7 @@ title: Home
 id: index
 layout: default
 weight: 0
-summary: Detailed information on drone-swarm related publications at ELTE Department of Biological Physics
+description: Detailed information on drone-swarm related publications at ELTE Department of Biological Physics
 ---
 
 We organized all our drone-swarm related resources around our publication highlights. Please select from the list below to read and see more:
