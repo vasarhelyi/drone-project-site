@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
-title: "Optimized flocking of autonomous drones in confined environments"
-description: "G. Vásárhelyi, Cs. Virágh, G. Somorjai, T. Nepusz, A. E. Eiben, T. Vicsek, Science Robotics, Vol. 3, Issue 20, eaat3536 (2018)"
+title: "Drone swarm research at ELTE Department of Biological Physics"
+description: "This site is dedicated to the drone swarm research at ELTE Department of Biological Physics with detailed information on drone-related publications."
 github:
   is_project_page: false
 google_analytics: UA-122492266-1
