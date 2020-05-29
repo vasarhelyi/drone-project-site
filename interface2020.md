@@ -2,7 +2,7 @@
 title: Interface2020
 id: interface2020
 layout: default
-weight: 10
+weight: 20
 summary: Detailed information about the research article "Adaptive leadership overcomes persistence-responsivity tradeoff in flocking", Royal Society Interface, 2020
 ---
 
