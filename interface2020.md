@@ -1,6 +1,7 @@
 ---
 title: Adaptive leadership overcomes persistence-responsivity tradeoff in flocking
 id: interface2020
+layout: page
 weight: 10
 summary: Detailed information about the research article "Adaptive leadership overcomes persistence-responsivity tradeoff in flocking", Royal Society Interface, 2020
 ---
