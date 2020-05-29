@@ -1,7 +1,7 @@
 ---
 title: Optimized flocking of autonomous drones in confined environments
 id: scirob2018
-layout: page
+layout: default
 weight: 20
 summary: Detailed information about the research article "Optimized flocking of autonomous drones in confined environments", Science Robotics, 2018
 ---
