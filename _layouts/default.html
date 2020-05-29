@@ -27,7 +27,7 @@
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
       {% if site.show_menu %}
-        {% assign pages = site.pages | where: "weight" | sort: "weight" %}
+        {% assign pages = site.html_pages | where: "parent", null | sort: "weight" %}
         {% for thepage in pages %}
           <a href="{{ thepage.url | prepend: site.baseurl }}" class="btn" >{{ thepage.title }}</a>
         {% endfor %}
