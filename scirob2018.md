@@ -13,6 +13,7 @@ summary: Detailed information about the research article "Optimized flocking of 
 
 G. Vásárhelyi, Cs. Virágh, G. Somorjai, T. Nepusz, A. E. Eiben, T. Vicsek, **Optimized flocking of autonomous drones in confined environments**, _Science Robotics_, Vol. 3, Issue 20, [eaat3536](http://robotics.sciencemag.org/cgi/content/abstract/3/20/eaat3536?ijkey=7bpOpKhVqgjGc&keytype=ref&siteid=robotics) (2018)
 
+---
 
 ## Video Abstract
 

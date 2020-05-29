@@ -11,6 +11,7 @@ summary: Detailed information about the research article "Adaptive leadership ov
 
 B. Balázs, G. Vásárhelyi, T. Vicsek, **Adaptive leadership overcomes persistence-responsivity tradeoff in flocking**, _Journal of The Royal Society Interface_, 2020
 
+---
 
 ## Abstract
 
