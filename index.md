@@ -1,6 +1,7 @@
 ---
-title: Drone swarm research at ELTE Department of Biological Physics
+title: Home
 id: index
+layout: default
 weight: 0
 summary: Detailed information on the drone-swarm related publications of ELTE Department of Biological Physics
 ---

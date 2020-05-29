@@ -1,6 +1,7 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 title: "Drone swarm research at ELTE Department of Biological Physics"
 description: "This site is dedicated to the drone swarm research at ELTE Department of Biological Physics with detailed information on drone-related publications."
+show_menu: true
 github:
   is_project_page: false
 google_analytics: UA-122492266-1

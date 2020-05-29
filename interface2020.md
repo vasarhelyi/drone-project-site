@@ -1,5 +1,5 @@
 ---
-title: Adaptive leadership overcomes persistence-responsivity tradeoff in flocking
+title: Interface2020
 id: interface2020
 layout: default
 weight: 10

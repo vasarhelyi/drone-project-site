@@ -1,5 +1,5 @@
 ---
-title: Optimized flocking of autonomous drones in confined environments
+title: SciRob2018
 id: scirob2018
 layout: default
 weight: 20
