@@ -16,6 +16,13 @@ G. Vásárhelyi, Cs. Virágh, G. Somorjai, T. Nepusz, A. E. Eiben, T. Vicsek, **
 
 ---
 
+## Background
+
+We published our first drone flocking results [back in 2014](iros2014.md). It took yet another four years of thinking, simulations, experiments and hardware re-design since then to overcome the major obstacles preventing us from scaling up our drone swarm system both in terms of flock size and flocking speed. In this article we presented a substantially enhanced model of flocking which has also been optimized by an evolutionary algorithm. With this novel solution we were capable of flying 30 drones at 8 m/s speed in confined environments (presented as virtual GPS walls and obstacles) in much smoother self-organization than anyone (including ourselves) ever before.
+
+This work was pretty exciting as it also made us advance in our understanding of the structure and dynamics of complex systems in general. A very general take-home message of this article is that complex systems under real-life conditions **must** be optimized to hell to function properly and that a complex architecture in a stochastic environment worth nothing without the proper instantiation of its model parameters. Such as a drunken person immediately falls out of the range of "normal behaviour" with slightly modified brain-parameters, a slightly mistuned or not well optimized flock - let it be birds of a feather or artificial drones - will also fail shortly. Therefore, the eternal beauty of natural (or by now artificial) flocks or other complex systems comes at a high price: the harmony and perfect synchrony of individuals is the result of infinite practice with pain and sweat, with the help of the greatest optimizer of all times, evolution.
+
+
 ## Video Abstract
 
 <div class="video-container">
@@ -46,7 +53,7 @@ The solution is scalable in the number of drones and in the speed of flight (100
 
 * **Are there any practical applications?**
 This is the “coordination” level which is the basis for all swarm applications (“cooperation”, “collaboration”).
-All applications where a bunch of drones need to do something autonomously together, e.g. distributed environmental monitoring, collective / self-organized search and rescue operations, crowd inspection, fighting forest fires, precision agriculture, dikes inspection (Netherlands) or drone delivery on massive scale in urban environments.
+All application fields are potentially interesting where a bunch of drones need to do something autonomously together, e.g. distributed environmental monitoring, collective / self-organized search and rescue operations, crowd inspection, fighting forest fires, precision agriculture, dikes inspection (Netherlands) or drone delivery on massive scale in urban environments.
 
 * **Are the autonomous drones dangerous or can they become dangerous?**
 Yes, if someone makes them to do so. Just like a knife, which can be used for good and bad. It is a collective responsibility of humanity to use any technological innovation peacefully. Our drones have never been used for military applications, while we actively help wildlife protection, environmental monitoring and precision agriculture.
@@ -57,11 +64,11 @@ Yes, if someone makes them to do so. Just like a knife, which can be used for go
   * collective robotics
 
 * **What next? Finished? Continued? Diverted?**
-  * Fundamental science:
+  * **Fundamental science**:
     We keep learning from natural systems (e.g. by creating hierarchical / heterogeneous flocks instead of egalitarian ones).
     We aim for real-time optimized / adaptive systems.
     We do application specific research using the collective motion of drones.
-  * Commercial applications:
+  * **Commercial applications**:
     We provide multi-drone services through [CollMot Robotics](https://www.collmot.com/).
 
 
