@@ -16,8 +16,15 @@ B. Balázs, G. Vásárhelyi, T. Vicsek, **Adaptive leadership overcomes persiste
 
 ## Abstract
 
-TODO
+The living world is full of cohesive collectives evolved to move together with high efficiency. Schools of fish or flocks of birds maintain their global direction despite even significant noise perturbing the individuals, yet they are capable of performing abrupt collective turns when relevant agitation alters the state of a few members. 
+Ruling local fluctuations out of global movement leads to persistence and needs overdamped interaction dynamics, while propagating swift turns throughout the group leads to responsivity and needs underdamped interaction dynamics.
 
+In this paper we show a way out of the above conflict by introducing a time-dependent leadership hierarchy that adapts locally to will: agents’ intention of changing direction. 
+Integrating our new concept of will-based inter-agent behaviour highly enhances responsivity of standard collective motion models, thus enables breaking out of their former limit, the persistence-responsivity tradeoff. 
+We also show that the increased responsivity to environmental cues scales well with growing flock size.
+
+Our solution relies on active communication or advanced cognition for the perception of will. 
+The incorporation of these into collective motion is a plausible hypothesis in higher order species, while it is a realizable feature for artificial robots, as demonstrated by our swarm of 52 drones.
 
 ## Download Full Text
 
