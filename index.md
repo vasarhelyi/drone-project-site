@@ -17,7 +17,7 @@ We organized all our drone swarm-related resources around our publication highli
 
 ## Full list of drone swarm-related publications
 
-* Balázs, B., Vásárhelyi, G., & Vicsek, T. (2020). Adaptive leadership overcomes persistence-responsivity tradeoff in flocking. _Journal of The Royal Society Interface_ (to be published soon)
+* Balázs, B., Vásárhelyi, G., & Vicsek, T. (2020, June). Adaptive leadership overcomes persistence-responsivity tradeoff in flocking. _Journal of The Royal Society Interface, 17_(167) (to be published soon)
 
 * Vásárhelyi, G., Virágh, C., Somorjai, G., Nepusz, T., Eiben, A. E., & Vicsek, T. (2018). Optimized flocking of autonomous drones in confined environments. _Science Robotics, 3_(20), eaat3536.
 doi:10.1126/scirobotics.aat3536

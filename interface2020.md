@@ -10,7 +10,7 @@ description: Details of the research article "Adaptive leadership overcomes pers
 
 <figure class="float-left"><img src="assets/img/interface2020.jpg" alt="Interface 2020 June Cover" width="100" /></figure>
 
-B. Balázs, G. Vásárhelyi, T. Vicsek, **Adaptive leadership overcomes persistence-responsivity tradeoff in flocking**, _Journal of The Royal Society Interface_, 2020
+B. Balázs, G. Vásárhelyi, T. Vicsek, **Adaptive leadership overcomes persistence-responsivity tradeoff in flocking**, _Journal of The Royal Society Interface_, Vol. 17, Issue 167, 2020 June
 
 ---
 
@@ -28,7 +28,7 @@ The incorporation of these into collective motion is a plausible hypothesis in h
 
 ## Download Full Text
 
-The full article will be available online at [Royal Society Interface](https://royalsocietypublishing.org/journal/rsif) soon.
+The full article is available online at the [Journal of The Royal Society Interface](https://royalsocietypublishing.org/toc/rsif/2020/17/167).
 
 
 ## Download Supplementary Material
