@@ -8,7 +8,7 @@ description: Details of the research article "Adaptive leadership overcomes pers
 
 # Adaptive leadership overcomes persistence-responsivity tradeoff in flocking
 
-<figure class="float-left"><img src="assets/img/interface_cover.jpg" alt="Interface 2020 June Cover" width="100" /></figure>
+<figure class="float-left"><img src="assets/img/interface2020.jpg" alt="Interface 2020 June Cover" width="100" /></figure>
 
 B. Balázs, G. Vásárhelyi, T. Vicsek, **Adaptive leadership overcomes persistence-responsivity tradeoff in flocking**, _Journal of The Royal Society Interface_, 2020
 
