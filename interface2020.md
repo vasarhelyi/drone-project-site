@@ -18,16 +18,22 @@ B. Balázs, G. Vásárhelyi, T. Vicsek, **Adaptive leadership overcomes persiste
 
 Our previous results on the cover of [Science Robotics](scirob2018.md) showed that self-organized flocking of large drone swarms in confined spaces is indeed possible. However, during the same process we have also learned that evolution has no ending and there always exists a "better" way, so we kept on pushing our limits through the deep analysis of all the bottlenecks of that solution. One major issue was the generally low speed of information propagation that is inherently present in homogeneous, "averaging-type" flocks. Simply averaging neighboring behaviour results in very efficient noise filtering and thus stable, synchronized collective motion, however, it is also the root cause of many accidents (e.g. at football matches or at Black Friday events) when the environment gets anisotropic and agents with new information content about obstacles (or in more natural settings, predators) need to react more swiftly than what is allowed by this low-pass-neighbor-filter. To have a simultaneously stable/presistent *and* reactive/responsive complex system is something very far from trivial, it is actually forbidden by the fluctuation-dissipation theorem in the non-living world. But of course, as always, evolution has found a way out of this conflict, so our new quest became to find a possible simple explanation how it could be done. The result is the extention from homogeneous to heterogeneous, from democratic to strictly hierarchical: the introduction of information-driven, adaptive leadership.
 
+## Video abstract
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/87y3AsUOCaQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen class="video"></iframe>
+</div>
+
 ## Abstract
 
-The living world is full of cohesive collectives evolved to move together with high efficiency. Schools of fish or flocks of birds maintain their global direction despite even significant noise perturbing the individuals, yet they are capable of performing abrupt collective turns when relevant agitation alters the state of a few members. 
+The living world is full of cohesive collectives evolved to move together with high efficiency. Schools of fish or flocks of birds maintain their global direction despite even significant noise perturbing the individuals, yet they are capable of performing abrupt collective turns when relevant agitation alters the state of a few members.
 Ruling local fluctuations out of global movement leads to persistence and needs overdamped interaction dynamics, while propagating swift turns throughout the group leads to responsivity and needs underdamped interaction dynamics.
 
-In this paper we show a way out of the above conflict by introducing a time-dependent leadership hierarchy that adapts locally to will: agents’ intention of changing direction. 
-Integrating our new concept of will-based inter-agent behaviour highly enhances responsivity of standard collective motion models, thus enables breaking out of their former limit, the persistence-responsivity tradeoff. 
+In this paper we show a way out of the above conflict by introducing a time-dependent leadership hierarchy that adapts locally to will: agents’ intention of changing direction.
+Integrating our new concept of will-based inter-agent behaviour highly enhances responsivity of standard collective motion models, thus enables breaking out of their former limit, the persistence-responsivity tradeoff.
 We also show that the increased responsivity to environmental cues scales well with growing flock size.
 
-Our solution relies on active communication or advanced cognition for the perception of will. 
+Our solution relies on active communication or advanced cognition for the perception of will.
 The incorporation of these into collective motion is a plausible hypothesis in higher order species, while it is a realizable feature for artificial robots, as demonstrated by our swarm of 52 drones.
 
 ## Download Full Text
@@ -37,12 +43,23 @@ The full article is available online at the [Journal of The Royal Society Interf
 
 ## Download Supplementary Material
 
-TODO
+All supplementary materials (texts, tables, figures, videos) are available online at [Figshare](https://doi.org/10.6084/m9.figshare.c.4977689).
+
+Supplementary videos are also available on Youtube:
+
+* [Supplementary Video 1: Response simulations](https://youtu.be/6rbA-kmyADs)
+* [Supplementary Video 2: DroneFlock'18 model in confined environment](https://youtu.be/QyYUEOOWf9E)
+* [Supplementary Video 3: WillFull model in confined environment](https://youtu.be/12Xp0eig6Uk)
+* [Supplementary Video 4: WillFull model on real aerial robots](https://youtu.be/87y3AsUOCaQ)
 
 
-## Download Flight Logs
+## Flight Log Visualization
 
-TODO
+An interactive 3D flight log visualization is [available here](https://share.skybrush.io/s/pers-resp/).
+
+While playing the visualization, use keys W, A, S, D, E and C to move around and drag scenery with mouse to look around.
+
+Powered by [CollMot Robotics](https://collmot.com).
 
 
 ## Download Simulation Code
