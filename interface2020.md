@@ -6,6 +6,7 @@ weight: 40
 description: Details of the research article "Adaptive leadership overcomes persistence-responsivity tradeoff in flocking", Royal Society Interface, 2020
 ---
 
+
 # Adaptive leadership overcomes persistence-responsivity tradeoff in flocking
 
 <figure class="float-left"><img src="assets/img/interface2020.jpg" alt="Interface 2020 June Cover" width="100" /></figure>
@@ -14,15 +15,20 @@ B. Balázs, G. Vásárhelyi, T. Vicsek, **Adaptive leadership overcomes persiste
 
 ---
 
+
 ## Background
 
 Our previous results on the cover of [Science Robotics](scirob2018.md) showed that self-organized flocking of large drone swarms in confined spaces is indeed possible. However, during the same process we have also learned that evolution has no ending and there always exists a "better" way, so we kept on pushing our limits through the deep analysis of all the bottlenecks of that solution. One major issue was the generally low speed of information propagation that is inherently present in homogeneous, "averaging-type" flocks. Simply averaging neighboring behaviour results in very efficient noise filtering and thus stable, synchronized collective motion, however, it is also the root cause of many accidents (e.g. at football matches or at Black Friday events) when the environment gets anisotropic and agents with new information content about obstacles (or in more natural settings, predators) need to react more swiftly than what is allowed by this low-pass-neighbor-filter. To have a simultaneously stable/presistent *and* reactive/responsive complex system is something very far from trivial, it is actually forbidden by the fluctuation-dissipation theorem in the non-living world. But of course, as always, evolution has found a way out of this conflict, so our new quest became to find a possible simple explanation how it could be done. The result is the extention from homogeneous to heterogeneous, from democratic to strictly hierarchical: the introduction of information-driven, adaptive leadership.
 
-## Video abstract
+
+## Video Abstract
+
+There are four Supplementary Videos associated with this article (see below). This is the one about our real self-organized drone swarm demonstrating the efficiency of the new control algorithm:
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/87y3AsUOCaQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen class="video"></iframe>
 </div>
+
 
 ## Abstract
 
@@ -35,6 +41,7 @@ We also show that the increased responsivity to environmental cues scales well w
 
 Our solution relies on active communication or advanced cognition for the perception of will.
 The incorporation of these into collective motion is a plausible hypothesis in higher order species, while it is a realizable feature for artificial robots, as demonstrated by our swarm of 52 drones.
+
 
 ## Download Full Text
 
@@ -82,6 +89,7 @@ The code basis of the multi-drone simulation that was used in the article is ope
 
 * K_16 Research Grant of the Hungarian National Research, Development and Innovation Office (K 119467);
 * European Union’s Horizon 2020 Research and Innovation Programme under Grant Agreement No. 740688.
+
 
 ## Media Coverage
 
