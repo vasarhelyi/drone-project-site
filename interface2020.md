@@ -3,7 +3,7 @@ title: Interface2020
 id: interface2020
 layout: default
 weight: 40
-description: Details of the research article "Adaptive leadership overcomes persistence—responsivity trade-off in flocking", Royal Society Interface, 2020
+description: Details of the research article "Adaptive leadership overcomes persistence—responsivity trade-off in flocking", J. Royal Society Interface, 2020
 ---
 
 
@@ -11,7 +11,7 @@ description: Details of the research article "Adaptive leadership overcomes pers
 
 <figure class="float-left"><img src="assets/img/interface2020.jpg" alt="Interface 2020 June Cover" width="100" /></figure>
 
-B. Balázs, G. Vásárhelyi, T. Vicsek, **Adaptive leadership overcomes persistence—responsivity trade-off in flocking**, _Journal of The Royal Society Interface_, Vol. 17, Issue 167, 0190853, 2020 June
+B. Balázs, G. Vásárhelyi, T. Vicsek, **Adaptive leadership overcomes persistence—responsivity trade-off in flocking**, _Journal of The Royal Society Interface_, Vol. 17, Issue 167, [0190853](https://royalsocietypublishing.org/doi/10.1098/rsif.2019.0853), 2020 June
 
 ---
 
