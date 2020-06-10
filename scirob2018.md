@@ -107,18 +107,17 @@ The code basis of the multi-drone simulation that was used in the article is ope
 ## Authors and Affiliation
 
 * [Gábor Vásárhelyi](http://hal.elte.hu/~vasarhelyi/)<sup>1,2,3</sup>
-* [Csaba Virágh](https://hal.elte.hu/flocking/wiki/public/en/people/CsabaViragh)<sup>2,4</sup>
+* [Csaba Virágh](https://hal.elte.hu/flocking/wiki/public/en/people/CsabaViragh)<sup>2</sup>
 * [Gergő Somorjai](https://collmot.com/)<sup>1,2,3</sup>
-* [Tamás Nepusz](http://hal.elte.hu/~nepusz/)<sup>3,5</sup>
-* [Agoston E. Eiben](https://www.cs.vu.nl/~gusz/)<sup>6</sup>
+* [Tamás Nepusz](http://hal.elte.hu/~nepusz/)<sup>3,4</sup>
+* [Agoston E. Eiben](https://www.cs.vu.nl/~gusz/)<sup>5</sup>
 * [Tamás Vicsek](http://hal.elte.hu/~vicsek/)<sup>1,2</sup>
 
 <sup>1</sup>[MTA-ELTE Statistical and Biological Physics Research Group](http://hal.elte.hu/)<br/>
 <sup>2</sup>[ELTE Department of Biological Physics](https://fizika.elte.hu/en/index.php?page=tanszek&tid=5)<br/>
 <sup>3</sup>[CollMot Robotics](https://collmot.com/)<br/>
-<sup>4</sup>[Morgan Stanley](https://www.morganstanley.com/)<br/>
-<sup>5</sup>[Molde University College](http://www.himolde.no/english/Sider/side.aspx)<br/>
-<sup>6</sup>[Vrije Universiteit Amsterdam](https://www.vu.nl/nl/index.aspx)
+<sup>4</sup>[Molde University College](http://www.himolde.no/english/Sider/side.aspx)<br/>
+<sup>5</sup>[Vrije Universiteit Amsterdam](https://www.vu.nl/nl/index.aspx)
 
 
 ## Funding
