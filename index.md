@@ -10,14 +10,14 @@ We organized all our drone swarm-related resources around our publication highli
 
 |      | title | authors | journal | year |
 | :--- | :---- | :------ | :------ | :--- |
-| [<img src="assets/img/interface2020.jpg" alt="Interface 2020 June Cover" width="100" />](interface2020.md) | [Adaptive leadership overcomes persistence-responsivity tradeoff in flocking](interface2020.md) | Boldizsár Balázs, Gábor Vásárhelyi, Tamás Vicsek | _Royal Society Interface_ | 2020 |
+| [<img src="assets/img/interface2020.jpg" alt="Interface 2020 June Cover" width="100" />](interface2020.md) | [Adaptive leadership overcomes persistence—responsivity trade-off in flocking](interface2020.md) | Boldizsár Balázs, Gábor Vásárhelyi, Tamás Vicsek | _Royal Society Interface_ | 2020 |
 | [<img src="assets/img/scirob2018.jpg" alt="Science Robotics 2018 July Cover" width="100" />](scirob2018.md) | [Optimized flocking of autonomous drones in confined environments](scirob2018.md) | Gábor Vásárhelyi, Csaba Virágh, Gergő Somorjai, Tamás Nepusz, A. E. Gusz Eiben, Tamás Vicsek | _Science Robotics_ | 2018 |
 | [<img src="assets/img/icra2018.jpg" alt="ICRA2018" width="100" />](icra2018.md) | [Coordinated dense aerial traffic with self-driving drones](icra2018.md) | Balázs Boldizsár, Gábor Vásárhelyi | _ICRA_ | 2018 |
 | [<img src="assets/img/iros2014.jpg" alt="IROS2014" width="100" />](iros2014.md) | [Outdoor flocking and formation flight with autonomous aerial robots](iros2014.md) | Gábor Vásárhelyi, Csaba Virágh, Gergő Somorjai, Norbert Tarcai, Tamás Szörényi, Tamás Nepusz, Tamás Vicsek | _IROS_ | 2014 |
 
 ## Full list of drone swarm-related publications
 
-* Balázs, B., Vásárhelyi, G., & Vicsek, T. (2020, June). Adaptive leadership overcomes persistence-responsivity tradeoff in flocking. _Journal of The Royal Society Interface, 17_(167) (to be published soon)
+* Balázs, B., Vásárhelyi, G., & Vicsek, T. (2020, June). Adaptive leadership overcomes persistence—responsivity trade-off in flocking. _Journal of The Royal Society Interface, 17_(167),0190853.
 
 * Vásárhelyi, G., Virágh, C., Somorjai, G., Nepusz, T., Eiben, A. E., & Vicsek, T. (2018). Optimized flocking of autonomous drones in confined environments. _Science Robotics, 3_(20), eaat3536.
 doi:10.1126/scirobotics.aat3536

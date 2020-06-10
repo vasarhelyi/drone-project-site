@@ -3,15 +3,15 @@ title: Interface2020
 id: interface2020
 layout: default
 weight: 40
-description: Details of the research article "Adaptive leadership overcomes persistence-responsivity tradeoff in flocking", Royal Society Interface, 2020
+description: Details of the research article "Adaptive leadership overcomes persistence—responsivity trade-off in flocking", Royal Society Interface, 2020
 ---
 
 
-# Adaptive leadership overcomes persistence-responsivity tradeoff in flocking
+# Adaptive leadership overcomes persistence—responsivity trade-off in flocking
 
 <figure class="float-left"><img src="assets/img/interface2020.jpg" alt="Interface 2020 June Cover" width="100" /></figure>
 
-B. Balázs, G. Vásárhelyi, T. Vicsek, **Adaptive leadership overcomes persistence-responsivity tradeoff in flocking**, _Journal of The Royal Society Interface_, Vol. 17, Issue 167, 2020 June
+B. Balázs, G. Vásárhelyi, T. Vicsek, **Adaptive leadership overcomes persistence—responsivity trade-off in flocking**, _Journal of The Royal Society Interface_, Vol. 17, Issue 167, 0190853, 2020 June
 
 ---
 
@@ -32,20 +32,12 @@ There are four Supplementary Videos associated with this article (see below). Th
 
 ## Abstract
 
-The living world is full of cohesive collectives evolved to move together with high efficiency. Schools of fish or flocks of birds maintain their global direction despite even significant noise perturbing the individuals, yet they are capable of performing abrupt collective turns when relevant agitation alters the state of a few members.
-Ruling local fluctuations out of global movement leads to persistence and needs overdamped interaction dynamics, while propagating swift turns throughout the group leads to responsivity and needs underdamped interaction dynamics.
-
-In this paper we show a way out of the above conflict by introducing a time-dependent leadership hierarchy that adapts locally to will: agents’ intention of changing direction.
-Integrating our new concept of will-based inter-agent behaviour highly enhances responsivity of standard collective motion models, thus enables breaking out of their former limit, the persistence-responsivity tradeoff.
-We also show that the increased responsivity to environmental cues scales well with growing flock size.
-
-Our solution relies on active communication or advanced cognition for the perception of will.
-The incorporation of these into collective motion is a plausible hypothesis in higher order species, while it is a realizable feature for artificial robots, as demonstrated by our swarm of 52 drones.
+The living world is full of cohesive collectives that have evolved to move together with high efficiency. Schools of fish or flocks of birds maintain their global direction despite significant noise perturbing the individuals, yet they are capable of performing abrupt collective turns when relevant agitation alters the state of a few members. Ruling local fluctuations out of global movement leads to persistence and requires overdamped interaction dynamics, while propagating swift turns throughout the group leads to responsivity and requires underdamped interaction dynamics. In this paper we show a way to avoid this conflict by introducing a time-dependent leadership hierarchy that adapts locally to _will_: agents’ intention of changing direction. Integrating our new concept of _will_-based inter-agent behaviour highly enhances the responsivity of standard collective motion models, thus enables breaking out of their former limit, the persistence—responsivity trade-off. We also show that the increased responsivity to environmental cues scales well with growing flock size. Our solution relies on active communication or advanced cognition for the perception of _will_. The incorporation of these into collective motion is a plausible hypothesis in higher order species, while it is a realizable feature for artificial robots, as demonstrated by our swarm of 52 drones.
 
 
 ## Download Full Text
 
-The full article is available online at the [Journal of The Royal Society Interface](https://royalsocietypublishing.org/toc/rsif/2020/17/167).
+The full article is available online at the [Journal of The Royal Society Interface](https://royalsocietypublishing.org/doi/10.1098/rsif.2019.0853).
 
 
 ## Download Supplementary Material
