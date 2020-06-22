@@ -87,7 +87,7 @@ The code basis of the multi-drone simulation that was used in the article is ope
 
 ### Hungarian
 
-* Az önszerveződő drónraj segít megérteni a madarak csoportos mozgását [(elte.hu, 2020.06.12.)](https://ttk.elte.hu/content/az-onszervezodo-dronraj-segit-megerteni-a-madarak-csoportos-mozgasat.t.3390)
+* Megtalálták a madárrajok repülésének titkát [(elte.hu, 2020.06.17.)](https://www.elte.hu/content/megtalaltak-a-madarrajok-repulesenek-titkat.t.21379)
 
 ### English
 
