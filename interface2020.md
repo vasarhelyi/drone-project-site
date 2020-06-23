@@ -88,7 +88,8 @@ The code basis of the multi-drone simulation that was used in the article is ope
 ### Hungarian
 
 * Megtalálták a madárrajok repülésének titkát [(elte.hu, 2020.06.17.)](https://www.elte.hu/content/megtalaltak-a-madarrajok-repulesenek-titkat.t.21379)
+* Egyre tökéletesebben utánozzák a dróncsapatok a madárrajok repülését [(ng.hu, 2020.06.21)](https://ng.hu/tudomany/2020/06/21/madarrajok-repuleset-egyre-tokeletesebben-utanozzak-a-droncsapatok/)
 
 ### English
 
-TODO
+soon...
