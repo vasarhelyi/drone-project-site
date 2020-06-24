@@ -92,4 +92,4 @@ The code basis of the multi-drone simulation that was used in the article is ope
 
 ### English
 
-soon...
+* Mimicking nature, our drones are flocking smoothly on the cover of Journal of the Royal Society Interface [(collmot.com, 2020.06.23.)](https://collmot.com/blog/mimicking-nature-our-drones-are-flocking-smoothly-on-the-cover-of-journal-of-the-royal-society-interface)
