@@ -89,6 +89,8 @@ The code basis of the multi-drone simulation that was used in the article is ope
 
 * Megtalálták a madárrajok repülésének titkát [(elte.hu, 2020.06.17.)](https://www.elte.hu/content/megtalaltak-a-madarrajok-repulesenek-titkat.t.21379)
 * Egyre tökéletesebben utánozzák a dróncsapatok a madárrajok repülését [(ng.hu, 2020.06.21)](https://ng.hu/tudomany/2020/06/21/madarrajok-repuleset-egyre-tokeletesebben-utanozzak-a-droncsapatok/)
+* Drónrajok reptetésében értek el elképesztő áttörést az ELTE kutatói [(InfoRádió, 2020.06.23.)](https://infostart.hu/tudomany/2020/06/24/dronrajok-repteteseben-ertek-el-elkepeszto-attorest-az-elte-kutatoi)
+* Az ELTE TTK fizikusai rájöttek, miként képesek a madárrajok felülkerekedni az együttmozgás elvi nehézségein [(Magyar Katolikus Rádió, 2020.06.27.)](https://www.katolikusradio.hu/archivum.php?firstaudioid=20&mev=2020&mho=06&mnap=27&mora=20&mperc=04)
 
 ### English
 
