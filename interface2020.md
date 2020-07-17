@@ -92,7 +92,7 @@ The code basis of the multi-drone simulation that was used in the article is ope
 * Drónrajok reptetésében értek el elképesztő áttörést az ELTE kutatói [(InfoRádió, 2020.06.23.)](https://infostart.hu/tudomany/2020/06/24/dronrajok-repteteseben-ertek-el-elkepeszto-attorest-az-elte-kutatoi)
 * Az ELTE TTK fizikusai rájöttek, miként képesek a madárrajok felülkerekedni az együttmozgás elvi nehézségein [(Magyar Katolikus Rádió, 2020.06.27.)](https://www.katolikusradio.hu/archivum.php?firstaudioid=20&mev=2020&mho=06&mnap=27&mora=20&mperc=04)
 * Megfejtették a madárrajok titkát, forradalmasíthatják a drónipart [(M2 Petőfi TV, 2020.07.03.)](https://youtu.be/X-H2ljZRTIA)
-* Ötvenen vannak, önszerveződnek és egyre jobban hasonlítanak egy madárrajra [(Kossuth Rádió, 2020.07.16.)](https://mediaklikk.hu/radio-lejatszo-kossuth/?date=2020-07-16_14-32-00&enddate=2020-07-16_15-10-00&ch=mr1)
+* Ötvenen vannak, önszerveződnek és egyre jobban hasonlítanak egy madárrajra [(Kossuth Rádió, 2020.07.16., 14:51:50-14:58:35)](https://mediaklikk.hu/radio-lejatszo-kossuth/?date=2020-07-16_14-32-00&enddate=2020-07-16_15-10-00&ch=mr1)
 
 ### English
 
