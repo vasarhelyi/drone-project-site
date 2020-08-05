@@ -97,3 +97,8 @@ The code basis of the multi-drone simulation that was used in the article is ope
 ### English
 
 * Mimicking nature, our drones are flocking smoothly on the cover of Journal of the Royal Society Interface [(collmot.com, 2020.06.23.)](https://collmot.com/blog/mimicking-nature-our-drones-are-flocking-smoothly-on-the-cover-of-journal-of-the-royal-society-interface)
+
+### Dutch
+
+* Het geheim van de zwerm [(npostart.nl, 2020.08.05.)](https://www.npostart.nl/de-kennis-van-nu-special-het-geheim-van-de-zwerm/05-08-2020/VPWON_1308693)
+* Nieuw wereldrecord zwermvliegen met drones [(nporadio1.nl, 2020.08.05.)](https://www.nporadio1.nl/wetenschap-techniek/25556-nieuw-wereldrecord-zwermvliegen-met-drones)
