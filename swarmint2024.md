@@ -19,9 +19,9 @@ Balázs, B., Vicsek, T., Somorjai, G., Nepusz, T., & Vásárhelyi, G. (2023). De
 
 ## Background
 
-Flocking and traffic are the two basic orthogonal building blocks of swarm motion. In flocking agents have the same goal and synchronize their motion to go together. In traffic agents have individual goals and coordinate their motion to avoid conflicts smoothly. In this article we focus on the latter case, with the largest ever swarm we could fly autonomously, using 100 drones (note that limits are purely financial, not technical as we demonstrate also in the article with 2500 drones in simulation).
+Flocking and traffic are the two basic orthogonal building blocks of swarm motion. In flocking, agents have the same goal and synchronize their motion to go together. In traffic, agents have individual goals and coordinate their motion to avoid conflicts smoothly. This article focuses on the latter case. We developed a traffic algorithm and flew the largest ever autonomous swarm of 100 drones with it. (Note that limits are purely financial, not technical as we demonstrate also in the article with 2500 drones in simulation).
 
-To achieve these goals, we use the same mindset and concept as with our previous flocking algorithms, and combine momentary flocking terms - optimized for traffic - with self-organized path planning. The results substantially overcome what could ever be done with human pilots.
+To achieve these goals, we use the same mindset and concept as with our previous flocking algorithms, and combine momentary flocking terms – optimized for traffic – with self-organized path planning. The results substantially outperforms what could ever be done with human pilots.
 
 
 ## Video abstract
@@ -40,6 +40,7 @@ Coordination of local and global aerial traffic has become a legal and technolog
 * K\_16 Research Grant, National Research, Development and Innovation Office – NKFIH (K 119467)
 * USAF Grant No: FA9550-17-1-0037
 * SNN21 Research Grant, National Research, Development and Innovation Office – NKFIH (OTKA SNN 139598)
+* KTNL Research Grant, National Research, DEvelopment and Innovation Office - NKFIH (2022-2.1.1-NL-2022-00012)
 
 Special thanks to [CollMot Robotics](https://collmot.com) for using their intelligent drone swarm and their swarm-level ground control station, [Skybrush](https://skybrush.io).
 
