@@ -3,7 +3,7 @@ title: SwarmInt2024
 id: swarmint2024
 layout: default
 weight: 50
-description: Details of the research article "Decentralized traffic management of autonomous drones", Submitted to _Swarm Intelligence_
+description: Details of the research article "Decentralized traffic management of autonomous drones", Submitted to Swarm Intelligence
 ---
 
 # Decentralized traffic management of autonomous drones
@@ -40,6 +40,8 @@ Coordination of local and global aerial traffic has become a legal and technolog
 * K\_16 Research Grant, National Research, Development and Innovation Office – NKFIH (K 119467)
 * USAF Grant No: FA9550-17-1-0037
 * SNN21 Research Grant, National Research, Development and Innovation Office – NKFIH (OTKA SNN 139598)
+
+Special thanks to [CollMot Robotics](https://collmot.com) for using their intelligent drone swarm and their swarm-level ground control station, [Skybrush](https://skybrush.io).
 
 
 ## Media Coverage
