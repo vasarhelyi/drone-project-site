@@ -40,7 +40,7 @@ Coordination of local and global aerial traffic has become a legal and technolog
 * K\_16 Research Grant, National Research, Development and Innovation Office – NKFIH (K 119467)
 * USAF Grant No: FA9550-17-1-0037
 * National Research, Development and Innovation Office – NKFIH: OTKA SNN Grant No:139598
-* KTNL Research Grant, National Research, DEvelopment and Innovation Office - NKFIH (2022-2.1.1-NL-2022-00012)
+* KTNL Research Grant, National Research, Development and Innovation Office - NKFIH (2022-2.1.1-NL-2022-00012)
 
 Special thanks to [CollMot Robotics](https://collmot.com) for using their intelligent drone swarm and their swarm-level ground control station, [Skybrush](https://skybrush.io).
 
