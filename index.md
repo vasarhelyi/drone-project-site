@@ -8,13 +8,13 @@ description: Detailed information on drone swarm-related publications at ELTE De
 
 We organized all our drone swarm-related resources around our publication highlights. Please select from the list below to read and see more:
 
-|      | title | authors | journal | year |
-| :--- | :---- | :------ | :------ | :--- |
-| [<img src="assets/img/swarmint2024.jpg" alt="Swarm Intelligence 2024" width="100" />](swarming2024.md) | [Decentralized traffic management of autonomous drones](swarmint2024.md) | Balázs Boldizsár, Tamás Vicsek, Gergő Somorjai, Tamás Nepusz, Gábor Vásárhelyi | _Swarm Intelligence_ | 2024 |
-| [<img src="assets/img/interface2020.jpg" alt="Interface 2020 June Cover" width="100" />](interface2020.md) | [Adaptive leadership overcomes persistence—responsivity trade-off in flocking](interface2020.md) | Boldizsár Balázs, Gábor Vásárhelyi, Tamás Vicsek | _J. R. Soc. Interface_ | 2020 |
-| [<img src="assets/img/scirob2018.jpg" alt="Science Robotics 2018 July Cover" width="100" />](scirob2018.md) | [Optimized flocking of autonomous drones in confined environments](scirob2018.md) | Gábor Vásárhelyi, Csaba Virágh, Gergő Somorjai, Tamás Nepusz, A. E. Gusz Eiben, Tamás Vicsek | _Science Robotics_ | 2018 |
-| [<img src="assets/img/icra2018.jpg" alt="ICRA2018" width="100" />](icra2018.md) | [Coordinated dense aerial traffic with self-driving drones](icra2018.md) | Balázs Boldizsár, Gábor Vásárhelyi | _ICRA_ | 2018 |
-| [<img src="assets/img/iros2014.jpg" alt="IROS2014" width="100" />](iros2014.md) | [Outdoor flocking and formation flight with autonomous aerial robots](iros2014.md) | Gábor Vásárhelyi, Csaba Virágh, Gergő Somorjai, Norbert Tarcai, Tamás Szörényi, Tamás Nepusz, Tamás Vicsek | _IROS_ | 2014 |
+|      | title | authors | journal | year | drones |
+| :--- | :---- | :------ | :------ | :--- | :----- |
+| [<img src="assets/img/swarmint2024.jpg" alt="Swarm Intelligence 2024" width="100" />](swarming2024.md) | [Decentralized traffic management of autonomous drones](swarmint2024.md) | Balázs Boldizsár, Tamás Vicsek, Gergő Somorjai, Tamás Nepusz, Gábor Vásárhelyi | _Swarm Intelligence_ | 2024 | 100 |
+| [<img src="assets/img/interface2020.jpg" alt="Interface 2020 June Cover" width="100" />](interface2020.md) | [Adaptive leadership overcomes persistence—responsivity trade-off in flocking](interface2020.md) | Boldizsár Balázs, Gábor Vásárhelyi, Tamás Vicsek | _J. R. Soc. Interface_ | 2020 | 50 |
+| [<img src="assets/img/scirob2018.jpg" alt="Science Robotics 2018 July Cover" width="100" />](scirob2018.md) | [Optimized flocking of autonomous drones in confined environments](scirob2018.md) | Gábor Vásárhelyi, Csaba Virágh, Gergő Somorjai, Tamás Nepusz, A. E. Gusz Eiben, Tamás Vicsek | _Science Robotics_ | 2018 | 30 |
+| [<img src="assets/img/icra2018.jpg" alt="ICRA2018" width="100" />](icra2018.md) | [Coordinated dense aerial traffic with self-driving drones](icra2018.md) | Balázs Boldizsár, Gábor Vásárhelyi | _ICRA_ | 2018 | 30 |
+| [<img src="assets/img/iros2014.jpg" alt="IROS2014" width="100" />](iros2014.md) | [Outdoor flocking and formation flight with autonomous aerial robots](iros2014.md) | Gábor Vásárhelyi, Csaba Virágh, Gergő Somorjai, Norbert Tarcai, Tamás Szörényi, Tamás Nepusz, Tamás Vicsek | _IROS_ | 2014 | 10 |
 
 ## Full list of drone swarm-related publications
 
