@@ -46,10 +46,10 @@ All supplementary materials (texts, tables, figures, videos) are available onlin
 
 Supplementary videos are also available on YouTube:
 
-* [Supplementary Video 1: Response simulations](https://youtu.be/6rbA-kmyADs)
-* [Supplementary Video 2: DroneFlock'18 model in confined environment](https://youtu.be/QyYUEOOWf9E)
-* [Supplementary Video 3: WillFull model in confined environment](https://youtu.be/12Xp0eig6Uk)
-* [Supplementary Video 4: WillFull model on real aerial robots](https://youtu.be/87y3AsUOCaQ)
+* [Supplementary Video 1](https://youtu.be/6rbA-kmyADs): Response simulations
+* [Supplementary Video 2](https://youtu.be/QyYUEOOWf9E): DroneFlock'18 model in confined environment
+* [Supplementary Video 3](https://youtu.be/12Xp0eig6Uk): WillFull model in confined environment
+* [Supplementary Video 4](https://youtu.be/87y3AsUOCaQ): WillFull model on real aerial robots
 
 
 ## Flight Log Visualization
