@@ -58,7 +58,7 @@ An interactive 3D flight log visualization is [available here](https://share.sky
 
 While playing the visualization, use keys W, A, S, D, E and C to move around and drag scenery with mouse to look around.
 
-Powered by [CollMot Robotics](https://collmot.com).
+Powered by [CollMot Robotics](https://collmot.com) and [Skybrush](https://skybrush.io).
 
 
 ## Download Simulation Code

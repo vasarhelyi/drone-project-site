@@ -56,6 +56,21 @@ Supplementary videos are also available on YouTube:
 * [Supplementary Movie S5](https://youtu.be/v0OJxjIp-HU): A three-minute recording of the field experiment with 100 real drones. Credit to: Barnabás Takács
 
 
+## Flight Log Visualization
+
+An interactive 3D flight log visualization is [available here](https://share.skybrush.io/s/traffic-layers/).
+
+While playing the visualization, use keys W, A, S, D, E and C to move around and drag scenery with mouse to look around.
+
+Powered by [CollMot Robotics](https://collmot.com) and [Skybrush](https://skybrush.io).
+
+
+## Download Simulation Code
+
+The code basis of the multi-drone simulation that was used in the article is open-source and can be found at [github.com/csviragh/robotsim](https://github.com/csviragh/robotsim).
+
+
+
 ## Funding
 
 * MTA-ELTE Statistical and Biological Physics Research Group
