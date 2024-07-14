@@ -3,7 +3,7 @@ title: SwarmInt2024
 id: swarmint2024
 layout: default
 weight: 50
-description: Details of the research article "Decentralized traffic management of autonomous drones", Submitted to Swarm Intelligence
+description: Details of the research article "Decentralized traffic management of autonomous drones", Swarm Intelligence, 2024
 ---
 
 # Decentralized traffic management of autonomous drones
@@ -12,7 +12,7 @@ description: Details of the research article "Decentralized traffic management o
 <img src="assets/img/swarmint2024.jpg" alt="SwarmInt2024" width="100" />
 </figure>
 
-Balázs, B., Vicsek, T., Somorjai, G., Nepusz, T., & Vásárhelyi, G. (2023). Decentralized traffic management of autonomous drones. Submitted to _Swarm Intelligence_, arXiv preprint arXiv:2312.11207.
+Balázs, B., Vicsek, T., Somorjai, G., Nepusz, T., & Vásárhelyi, G. (2024). **Decentralized traffic management of autonomous drones.**, _Swarm Intelligence_, [doi:10.1007/s11721-024-00241-y](https://doi.org/10.1007/s11721-024-00241-y).
 
 ---
 
@@ -26,12 +26,34 @@ To achieve these goals, we use the same mindset and concept as with our previous
 
 ## Video abstract
 
-Will be available upon publication...
+There are five Supplementary Movies associated with this article (see below). This is the summarizing documentary with simulation, flight log visualization, and footage on real flights with hundred autonomous drones in dense self-organized traffic:
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/87y3AsUOCaQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen class="video"></iframe>
+</div>
 
 
-## Abstract (preprint, first submitted version)
+## Abstract
 
-Coordination of local and global aerial traffic has become a legal and technological bottleneck as the number of unmanned vehicles in the common airspace continues to grow. To meet this challenge, automation and decentralization of control is an unavoidable requirement. In this paper, we present a solution that enables self-organization of cooperating autonomous agents into an effective traffic flow state in which the common aerial coordination task - filled with conflicts - is resolved. Using realistic simulations, we show that our algorithm is safe, efficient, and scalable regarding the number of drones and their speed range, while it can also handle heterogeneous agents and even pairwise priorities between them. The algorithm works in any sparse or dense traffic scenario in two dimensions and can be made increasingly efficient by a layered flight space structure in three dimensions. To support the feasibility of our solution, we experimentally demonstrate coordinated aerial traffic of 100 autonomous drones within a circular area with a radius of 125 meters.
+Coordination of local and global aerial traffic has become a legal and technological bottleneck as the number of unmanned vehicles in the common airspace continues to grow. To meet this challenge, automation and decentralization of control is an unavoidable requirement. In this paper, we present a solution that enables self-organization of cooperating autonomous agents into an effective traffic flow state in which the common aerial coordination task - filled with conflicts - is resolved. Using realistic simulations, we show that our algorithm is safe, efficient, and scalable regarding the number of drones and their speed range, while it can also handle heterogeneous agents and even pairwise priorities between them. The algorithm works in any sparse or dense traffic scenario in two dimensions and can be made increasingly efficient by a layered flight space structure in three dimensions. To support the feasibility of our solution, we show stable traffic simulations with up to 5000 agents, and experimentally demonstrate coordinated aerial traffic of 100 autonomous drones within a 250 m wide circular area.
+
+
+## Download Full Text
+
+The full article is available online at [Swarm Intelligence](https://link.springer.com/article/10.1007/s11721-024-00241-y).
+
+
+## Download Supplmenetary Material
+
+All supplementary materials (texts, tables, figures, videos) are available online at [Swarm Intelligence](https://link.springer.com/article/10.1007/s11721-024-00241-y).
+
+Supplementary videos are also available on YouTube:
+
+* [Supplementary Movie S1: Realistic simulation of 2D decentralized drone traffic with 5, 50, 500 and 5000 agents](https://youtu.be/wIsKGkHs2Po)
+* [Supplementary Movie S2: Realistic simulation of 2D decentralized drone traffic with heterogeneous travel speed (2-32 m/s)](https://youtu.be/0Ms_wkeKxzU)
+* [Supplementary Movie S3: Realistic simulation of 3D decentralized drone traffic with 500 drones in 1, 2, 3 and 4 layers](https://youtu.be/CgcgccwPm4M)
+* [Supplementary Movie S4: Summarizing documentary (video abstract) with simulation, flight log visualization, and footage on real flights](https://youtu.be/VOtu6Vmkp88)
+* [Supplementary Movie S5: A three-minute recording of the field experiment with 100 real drones. Credit to: Barnabás Takács](https://youtu.be/v0OJxjIp-HU)
 
 
 ## Funding

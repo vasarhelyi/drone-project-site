@@ -44,7 +44,7 @@ The full article is available online at the [Journal of The Royal Society Interf
 
 All supplementary materials (texts, tables, figures, videos) are available online at [Figshare](https://doi.org/10.6084/m9.figshare.c.4977689).
 
-Supplementary videos are also available on Youtube:
+Supplementary videos are also available on YouTube:
 
 * [Supplementary Video 1: Response simulations](https://youtu.be/6rbA-kmyADs)
 * [Supplementary Video 2: DroneFlock'18 model in confined environment](https://youtu.be/QyYUEOOWf9E)
