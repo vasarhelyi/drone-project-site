@@ -10,7 +10,7 @@ We organized all our drone swarm-related resources around our publication highli
 
 |      | title | authors | journal | year | drones |
 | :--- | :---- | :------ | :------ | :--- | :----- |
-| [<img src="assets/img/swarmint2024.jpg" alt="Swarm Intelligence 2024" width="100" />](swarming2024.md) | [Decentralized traffic management of autonomous drones](swarmint2024.md) | Balázs Boldizsár, Tamás Vicsek, Gergő Somorjai, Tamás Nepusz, Gábor Vásárhelyi | _Swarm Intelligence_ | 2024 | 100 |
+| [<img src="assets/img/swarmint2024.jpg" alt="Swarm Intelligence 2024" width="100" />](swarmint2024.md) | [Decentralized traffic management of autonomous drones](swarmint2024.md) | Balázs Boldizsár, Tamás Vicsek, Gergő Somorjai, Tamás Nepusz, Gábor Vásárhelyi | _Swarm Intelligence_ | 2024 | 100 |
 | [<img src="assets/img/interface2020.jpg" alt="Interface 2020 June Cover" width="100" />](interface2020.md) | [Adaptive leadership overcomes persistence—responsivity trade-off in flocking](interface2020.md) | Boldizsár Balázs, Gábor Vásárhelyi, Tamás Vicsek | _J. R. Soc. Interface_ | 2020 | 50 |
 | [<img src="assets/img/scirob2018.jpg" alt="Science Robotics 2018 July Cover" width="100" />](scirob2018.md) | [Optimized flocking of autonomous drones in confined environments](scirob2018.md) | Gábor Vásárhelyi, Csaba Virágh, Gergő Somorjai, Tamás Nepusz, A. E. Gusz Eiben, Tamás Vicsek | _Science Robotics_ | 2018 | 30 |
 | [<img src="assets/img/icra2018.jpg" alt="ICRA2018" width="100" />](icra2018.md) | [Coordinated dense aerial traffic with self-driving drones](icra2018.md) | Balázs Boldizsár, Gábor Vásárhelyi | _ICRA_ | 2018 | 30 |
