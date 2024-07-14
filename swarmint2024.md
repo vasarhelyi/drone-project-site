@@ -43,7 +43,7 @@ Coordination of local and global aerial traffic has become a legal and technolog
 The full article is available online at [Swarm Intelligence](https://link.springer.com/article/10.1007/s11721-024-00241-y).
 
 
-## Download Supplmenetary Material
+## Download Supplementary Material
 
 All supplementary materials (texts, tables, figures, videos) are available online at [Swarm Intelligence](https://link.springer.com/article/10.1007/s11721-024-00241-y).
 
