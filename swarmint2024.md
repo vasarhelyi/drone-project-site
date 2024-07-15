@@ -84,4 +84,11 @@ Special thanks to [CollMot Robotics](https://collmot.com) for using their intell
 
 ## Media Coverage
 
-Be the first to write about this article!
+### Hungarian
+
+* Biztonságos drónforgalom a jövő okosvárosaiban [(elte.hu, 2024.07.15.)](https://www.elte.hu/content/biztonsagos-dronforgalom-a-jovo-okosvarosaiban.t.30888)
+
+### English
+
+* Safe Drone Traffic in Smart Cities of the Future [(elte.hu, 2024.07.15.)](https://www.elte.hu/en/content/safe-drone-traffic-in-smart-cities-of-the-future.t.3347)
+
