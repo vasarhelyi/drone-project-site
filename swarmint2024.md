@@ -89,6 +89,7 @@ Special thanks to [CollMot Robotics](https://collmot.com) for using their intell
 * Biztonságos drónforgalom a jövő okosvárosaiban [(elte.hu, 2024.07.15.)](https://www.elte.hu/content/biztonsagos-dronforgalom-a-jovo-okosvarosaiban.t.30888)
 * A madárrajok repülésének alapján világelsőként oldották meg a sűrű drónforgalom biztonságos önszerveződését az ELTE kutatói [(qubit.hu, 2024.07.15.)](https://qubit.hu/2024/07/15/a-madarrajok-repulesenek-alapjan-vilagelsokent-oldottak-meg-a-suru-dronforgalom-biztonsagos-onszervezodeset-az-elte-kutatoi)
 * Száz drón sűrű önvezető forgalmát mutatták be az ELTE kutatói [(frisss.hu, 2024.07.15.)](https://www.frisss.hu/aktualis/szaz-dron-suru-onvezeto-forgalmat-mutattak-be-az-elte-kutatoi)
+* Világelső rendszert épített az ELTE, 5000 drónt is képes egyszerre baleset nélkül reptetni – videó [(hvg.hu, 2024.07.17.)](https://m.hvg.hu/tudomany/20240717_eltre-dron-repules-mozgas-baleset)
 
 ### English
 
