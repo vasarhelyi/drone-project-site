@@ -94,4 +94,5 @@ Special thanks to [CollMot Robotics](https://collmot.com) for using their intell
 ### English
 
 * Safe Drone Traffic in Smart Cities of the Future [(elte.hu, 2024.07.15.)](https://www.elte.hu/en/content/safe-drone-traffic-in-smart-cities-of-the-future.t.3347)
+* How to make a sky full of drones behave [(electrooptics.com, 2024.07.23.)](https://www.electrooptics.com/article/how-make-sky-full-drones-behave)
 
