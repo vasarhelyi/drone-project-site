@@ -94,5 +94,10 @@ Special thanks to [CollMot Robotics](https://collmot.com) for using their intell
 ### English
 
 * Safe Drone Traffic in Smart Cities of the Future [(elte.hu, 2024.07.15.)](https://www.elte.hu/en/content/safe-drone-traffic-in-smart-cities-of-the-future.t.3347)
+* The First Comprehensive Autonomous Drone Traffic Management System [(azorobotics.com, 2024.07.16.)](https://www.azorobotics.com/News.aspx?newsID=15080)
+* World-first: Flock of 5,000 drones self-fly safely during a UAV traffic test [(interestingengineering.com, 2024.07.16.)](https://interestingengineering.com/transportation/first-self-driving-drone-traffic)
+* The First Comprehensive Autonomous Drone Traffic Management System [(msn.com, 2024.07.16.)](https://www.msn.com/en-gb/news/techandscience/the-first-comprehensive-autonomous-drone-traffic-management-system/ar-BB1q5w2b)
+* Autonomous Drone Traffic: ELTE’s Revolutionary Solution [(impactlab.com, 2024.07.17.)](https://www.impactlab.com/2024/07/17/autonomous-drone-traffic-eltes-revolutionary-solution/)
+* ELTE Researchers Pioneer Safe Self-Organization of Dense Drone Traffic Based on Bird Flock Flight [(flyingcarsmarket.com, 2024.07.18)](https://flyingcarsmarket.com/elte-researchers-pioneer-safe-self-organization-of-dense-drone-traffic-based-on-bird-flock-flight/)
 * How to make a sky full of drones behave [(electrooptics.com, 2024.07.23.)](https://www.electrooptics.com/article/how-make-sky-full-drones-behave)
-
+* How to make a sky full of drones behave [(imveurope.com, 2024.07.25.)](https://www.imveurope.com/article/how-make-sky-full-drones-behave)
