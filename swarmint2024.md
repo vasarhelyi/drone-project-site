@@ -87,9 +87,18 @@ Special thanks to [CollMot Robotics](https://collmot.com) for using their intell
 ### Hungarian
 
 * Biztonságos drónforgalom a jövő okosvárosaiban [(elte.hu, 2024.07.15.)](https://www.elte.hu/content/biztonsagos-dronforgalom-a-jovo-okosvarosaiban.t.30888)
+* Biztonságos drónforgalom a jövő okosvárosaiba [(bdpst24.hu, 2024.07.15.)](https://bdpst24.hu/2024/07/15/biztonsagos-dronforgalom-a-jovo-okosvarosaiban/) 
 * A madárrajok repülésének alapján világelsőként oldották meg a sűrű drónforgalom biztonságos önszerveződését az ELTE kutatói [(qubit.hu, 2024.07.15.)](https://qubit.hu/2024/07/15/a-madarrajok-repulesenek-alapjan-vilagelsokent-oldottak-meg-a-suru-dronforgalom-biztonsagos-onszervezodeset-az-elte-kutatoi)
 * Száz drón sűrű önvezető forgalmát mutatták be az ELTE kutatói [(frisss.hu, 2024.07.15.)](https://www.frisss.hu/aktualis/szaz-dron-suru-onvezeto-forgalmat-mutattak-be-az-elte-kutatoi)
+* Biztonságos drónforgalom a jövő okosvárosaiban [(hirnavigator.hu, 2024.07.15.)](https://hirnavigator.hu/hir/7266973-biztonsagos-dronforgalom-a-jovo-okosvarosaiban)
+* Ez vár a jövő városaira magyar kutatók szerint [(firstclass.hu, 2024.07.15.)](https://firstclass.hu/life/2024/07/16/ez-var-a-jovo-varosaira-magyar-kutatok-szerint/)
 * Világelső rendszert épített az ELTE, 5000 drónt is képes egyszerre baleset nélkül reptetni – videó [(hvg.hu, 2024.07.17.)](https://m.hvg.hu/tudomany/20240717_eltre-dron-repules-mozgas-baleset)
+* Magyar kutatók világsikere: 5 ezer drónt kapcsoltak össze [(gyartastrend.hu, 2024.07.17.)](https://gyartastrend.hu/cikk/magyar-kutatok-vilagsikere-5-ezer-dront-kapcsoltak-ossze)
+* Biztonságos drónforgalom a jövő okosvárosaiban [(autopro.hu, 2024.07.17.)](https://autopro.hu/trend/biztonsagos-dronforgalom-a-jovo-okosvarosaiban/1160751)
+* Biztonságos drónforgalom a jövő okosvárosaiban [(muszaki-magazin.hu, 2024.07.18.)](https://www.muszaki-magazin.hu/2024/07/17/dronforgalom-jovo-okos-varos-biztonsag/)
+* Olyan rendszert épített az ELTE, ami 5000 drónt is képes egyszerre reptetni [(pcwplus.hu, 2024.07.18.)](https://www.pcwplus.hu/pcwlite/olyan-rendszert-epitett-az-elte-ami-5000-dront-is-kepes-egyszerre-reptetni-358032.html)
+* Olyan rendszert épített az ELTE, ami 5000 drónt is képes egyszerre reptetni [(hirstart.hu, 2024.07.18.)](https://www.hirstart.hu/hk/20240718_olyan_rendszert_epitett_az_elte_ami_5000_dront_is_kepes_egyszerre_reptetni)
+* Az előre gondolkodó, bioinspirált rajrepülésé a jövő [(minuszos.hu, 2024.07.23.)](https://www.minuszos.hu/az-elore-gondolkodo-bioinspiralt-rajrepulese-a-jovo/)
 
 ### English
 
