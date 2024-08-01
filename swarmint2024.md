@@ -84,6 +84,27 @@ Special thanks to [CollMot Robotics](https://collmot.com) for using their intell
 
 ## Media Coverage
 
+### English
+
+* Safe Drone Traffic in Smart Cities of the Future [(elte.hu, 2024.07.15.)](https://www.elte.hu/en/content/safe-drone-traffic-in-smart-cities-of-the-future.t.3347)
+* Safe drone traffic in smart cities of the future [(scienmag.com, 2024.07.15.)](https://scienmag.com/safe-drone-traffic-in-smart-cities-of-the-future/)
+* Safe drone traffic in smart cities of the future [(bioengineer.org, 2024.07.15.)](https://bioengineer.org/safe-drone-traffic-in-smart-cities-of-the-future/)
+* Self-organizing drone flock demonstrates safe traffic solution for smart cities of the future [(morns.ca, 2024.07.15.)](https://morns.ca/2024/07/15/self-organizing-drone-flock-demonstrates-safe-traffic-solution-for-smart-cities-of-the-future/)
+* The First Comprehensive Autonomous Drone Traffic Management System [(azorobotics.com, 2024.07.16.)](https://www.azorobotics.com/News.aspx?newsID=15080)
+* Self-organizing drone flock demonstrates safe traffic solution for smart cities of the future [(techxplore.com, 2024.07.15.)](https://techxplore.com/news/2024-07-drone-flock-safe-traffic-solution.html)
+* World-first: Flock of 5,000 drones self-fly safely during a UAV traffic test [(interestingengineering.com, 2024.07.16.)](https://interestingengineering.com/transportation/first-self-driving-drone-traffic)
+* The First Comprehensive Autonomous Drone Traffic Management System [(msn.com, 2024.07.16.)](https://www.msn.com/en-gb/news/techandscience/the-first-comprehensive-autonomous-drone-traffic-management-system/ar-BB1q5w2b)
+* Safe drone traffic in smart cities of the future [(innovations-report.com, 2024.07.16.)](https://www.innovations-report.com/transportation-and-logistics/safe-drone-traffic-in-smart-cities-of-the-future/)
+* The First Comprehensive Autonomous Drone Traffic Management System [(azorobotics.com, 2024.07.16.)](https://www.azorobotics.com/News.aspx?newsID=15080)
+* This Smart Traffic Management System Can Handle 5,000 Autonomous Drones, Researchers Say [(hackster.io, 2024.07.16.)](https://www.hackster.io/news/this-smart-traffic-management-system-can-handle-5-000-autonomous-drones-researchers-say-fc26ce0dd13e)
+* Autonomous Drone Traffic: ELTE’s Revolutionary Solution [(impactlab.com, 2024.07.17.)](https://www.impactlab.com/2024/07/17/autonomous-drone-traffic-eltes-revolutionary-solution/)
+* First large-scale autonomous drone traffic solution for future smart cities trialled [(dpaonthenet.net, 2024.07.17.)](https://www.dpaonthenet.net/article/206549/First-large-scale-autonomous-drone-traffic-solution-for-future-smart-cities-trialled.aspx)
+* ELTE Researchers Pioneer Safe Self-Organization of Dense Drone Traffic Based on Bird Flock Flight [(flyingcarsmarket.com, 2024.07.18)](https://flyingcarsmarket.com/elte-researchers-pioneer-safe-self-organization-of-dense-drone-traffic-based-on-bird-flock-flight/)
+* How to make a sky full of drones behave [(electrooptics.com, 2024.07.23.)](https://www.electrooptics.com/article/how-make-sky-full-drones-behave)
+* How to make a sky full of drones behave [(imveurope.com, 2024.07.25.)](https://www.imveurope.com/article/how-make-sky-full-drones-behave)
+* 5,000 drones flew safely and autonomously in traffic tests [(uavcrafts.com, 2024.07.25.)](https://uavcrafts.com/blogs/news/5-000-drones-flew-safely-and-autonomously-in-traffic-tests)
+
+
 ### Hungarian
 
 * Biztonságos drónforgalom a jövő okosvárosaiban [(elte.hu, 2024.07.15.)](https://www.elte.hu/content/biztonsagos-dronforgalom-a-jovo-okosvarosaiban.t.30888)
@@ -100,13 +121,19 @@ Special thanks to [CollMot Robotics](https://collmot.com) for using their intell
 * Olyan rendszert épített az ELTE, ami 5000 drónt is képes egyszerre reptetni [(hirstart.hu, 2024.07.18.)](https://www.hirstart.hu/hk/20240718_olyan_rendszert_epitett_az_elte_ami_5000_dront_is_kepes_egyszerre_reptetni)
 * Az előre gondolkodó, bioinspirált rajrepülésé a jövő [(minuszos.hu, 2024.07.23.)](https://www.minuszos.hu/az-elore-gondolkodo-bioinspiralt-rajrepulese-a-jovo/)
 
-### English
 
-* Safe Drone Traffic in Smart Cities of the Future [(elte.hu, 2024.07.15.)](https://www.elte.hu/en/content/safe-drone-traffic-in-smart-cities-of-the-future.t.3347)
-* The First Comprehensive Autonomous Drone Traffic Management System [(azorobotics.com, 2024.07.16.)](https://www.azorobotics.com/News.aspx?newsID=15080)
-* World-first: Flock of 5,000 drones self-fly safely during a UAV traffic test [(interestingengineering.com, 2024.07.16.)](https://interestingengineering.com/transportation/first-self-driving-drone-traffic)
-* The First Comprehensive Autonomous Drone Traffic Management System [(msn.com, 2024.07.16.)](https://www.msn.com/en-gb/news/techandscience/the-first-comprehensive-autonomous-drone-traffic-management-system/ar-BB1q5w2b)
-* Autonomous Drone Traffic: ELTE’s Revolutionary Solution [(impactlab.com, 2024.07.17.)](https://www.impactlab.com/2024/07/17/autonomous-drone-traffic-eltes-revolutionary-solution/)
-* ELTE Researchers Pioneer Safe Self-Organization of Dense Drone Traffic Based on Bird Flock Flight [(flyingcarsmarket.com, 2024.07.18)](https://flyingcarsmarket.com/elte-researchers-pioneer-safe-self-organization-of-dense-drone-traffic-based-on-bird-flock-flight/)
-* How to make a sky full of drones behave [(electrooptics.com, 2024.07.23.)](https://www.electrooptics.com/article/how-make-sky-full-drones-behave)
-* How to make a sky full of drones behave [(imveurope.com, 2024.07.25.)](https://www.imveurope.com/article/how-make-sky-full-drones-behave)
+### Romanian
+
+* Premiera mondiala in Ungaria: Un stol de 5.000 de drone zboara fara control uman si fara sa se ciocneasca intre ele [(aktual24.ro, 2024.07.17.)](https://www.aktual24.ro/premiera-mondiala-in-ungaria-un-stol-de-5-000-de-drone-zboara-fara-control-uman-si-fara-sa-se-ciocneasca-intre-ele/#goog_rewarded)
+
+
+# Spanish
+
+* Los drones ya pueden surcar en masa los cielos de las ciudades inteligentes [(diariodemallorca.es, 2024.07.22.)](https://www.diariodemallorca.es/tendencias21/2024/07/22/drones-surcar-masa-cielos-ciudades-105930224.html)
+* Los drones ya pueden surcar en masa los cielos de las ciudades inteligentes [(elperiodico.com, 2024.07.22.)](https://www.elperiodico.com/es/tendencias-21/20240722/drones-surcar-masa-cielos-ciudades-105930222)
+* Los drones ya pueden surcar en masa los cielos de las ciudades inteligentes [(lne.es, 2024.07.22.)](https://www.lne.es/tendencias21/2024/07/22/drones-surcar-masa-cielos-ciudades-105930214.html)
+
+
+<!--
+* title [(urlshort, 2024.07.xx.)](url)
+-->
