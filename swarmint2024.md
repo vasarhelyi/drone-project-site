@@ -104,6 +104,9 @@ Special thanks to [CollMot Robotics](https://collmot.com) for using their intell
 * How to make a sky full of drones behave [(imveurope.com, 2024.07.25.)](https://www.imveurope.com/article/how-make-sky-full-drones-behave)
 * 5,000 drones flew safely and autonomously in traffic tests [(uavcrafts.com, 2024.07.25.)](https://uavcrafts.com/blogs/news/5-000-drones-flew-safely-and-autonomously-in-traffic-tests)
 * Using drone swarms for autonomous mapping and surveillance, with CollMot Robotics CEO Gábor Vásárhelyi [(electrooptics.com, 2024.08.24.)](https://www.electrooptics.com/article/using-drone-swarms-autonomous-mapping-surveillance-collmot-robotics-ceo-gabor-vasarhelyi)
+* Data on animal movements help Hungarian researchers create a swarm of autonomous drones [(apnews.com, 2024.12.19.)](https://apnews.com/article/autonomous-drones-animal-swarms-0e146f4221e81f4442674a125f86501d)
+
+
 
 
 ### Hungarian
